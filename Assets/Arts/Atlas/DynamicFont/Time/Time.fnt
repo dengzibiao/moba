@@ -1,0 +1,15 @@
+info face="禹卫书法行书简体" size=-32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=33 base=28 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Time_0.png"
+chars count=11
+char id=48   x=30    y=0     width=28    height=42    xoffset=0     yoffset=0     xadvance=28    page=0  chnl=15
+char id=49   x=0     y=43    width=16    height=40    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=50   x=143   y=0     width=27    height=41    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=51   x=59    y=0     width=27    height=42    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=52   x=199   y=0     width=28    height=40    xoffset=0     yoffset=0     xadvance=28    page=0  chnl=15
+char id=53   x=171   y=0     width=27    height=41    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=54   x=87    y=0     width=27    height=42    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=55   x=228   y=0     width=27    height=40    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=56   x=0     y=0     width=29    height=42    xoffset=0     yoffset=0     xadvance=29    page=0  chnl=15
+char id=57   x=115   y=0     width=27    height=42    xoffset=0     yoffset=0     xadvance=27    page=0  chnl=15
+char id=58   x=17    y=43    width=11    height=28    xoffset=0     yoffset=0     xadvance=11    page=0  chnl=15

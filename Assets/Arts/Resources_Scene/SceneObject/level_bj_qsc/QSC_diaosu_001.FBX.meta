@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 8e37b0be4b7934640a5723c3450dedcb
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ZC_jz_diaoxiang_001
+    100004: ZC_jz_diaoxiang_002
+    100006: ZC_jz_diaoxiang_003
+    100008: ZC_jz_diaoxiang_004
+    100010: ZC_jz_diaoxiang_005
+    100012: ZC_wj_ludeng_001
+    100014: ZC_wj_paishuigai_001
+    100016: ZC_wj_sky_001
+    100018: ZC_wj_sky_002
+    100020: ZC_wj_sky_003
+    100022: ZC_wj_sky_004
+    100024: ZC_wj_zalan_001
+    100026: ZC_wj_zalan_002
+    100028: ZC_wj_zalan_003
+    100030: ZC_wj_zalan_004
+    100032: ZC_wj_zalan_005
+    100034: ZC_wj_zalan_006
+    100036: ZC_wj_sky_005
+    100038: ZC_wj_sky_006
+    100040: ZC_wj_sky_007
+    400000: //RootNode
+    400002: ZC_jz_diaoxiang_001
+    400004: ZC_jz_diaoxiang_002
+    400006: ZC_jz_diaoxiang_003
+    400008: ZC_jz_diaoxiang_004
+    400010: ZC_jz_diaoxiang_005
+    400012: ZC_wj_ludeng_001
+    400014: ZC_wj_paishuigai_001
+    400016: ZC_wj_sky_001
+    400018: ZC_wj_sky_002
+    400020: ZC_wj_sky_003
+    400022: ZC_wj_sky_004
+    400024: ZC_wj_zalan_001
+    400026: ZC_wj_zalan_002
+    400028: ZC_wj_zalan_003
+    400030: ZC_wj_zalan_004
+    400032: ZC_wj_zalan_005
+    400034: ZC_wj_zalan_006
+    400036: ZC_wj_sky_005
+    400038: ZC_wj_sky_006
+    400040: ZC_wj_sky_007
+    2300000: ZC_jz_diaoxiang_001
+    2300002: ZC_jz_diaoxiang_002
+    2300004: ZC_jz_diaoxiang_003
+    2300006: ZC_jz_diaoxiang_004
+    2300008: ZC_jz_diaoxiang_005
+    2300010: ZC_wj_ludeng_001
+    2300012: ZC_wj_paishuigai_001
+    2300014: ZC_wj_sky_001
+    2300016: ZC_wj_sky_002
+    2300018: ZC_wj_sky_003
+    2300020: ZC_wj_sky_004
+    2300022: ZC_wj_zalan_001
+    2300024: ZC_wj_zalan_002
+    2300026: ZC_wj_zalan_003
+    2300028: ZC_wj_zalan_004
+    2300030: ZC_wj_zalan_005
+    2300032: ZC_wj_zalan_006
+    2300034: ZC_wj_sky_005
+    2300036: ZC_wj_sky_006
+    2300038: ZC_wj_sky_007
+    3300000: ZC_jz_diaoxiang_001
+    3300002: ZC_jz_diaoxiang_002
+    3300004: ZC_jz_diaoxiang_003
+    3300006: ZC_jz_diaoxiang_004
+    3300008: ZC_jz_diaoxiang_005
+    3300010: ZC_wj_ludeng_001
+    3300012: ZC_wj_paishuigai_001
+    3300014: ZC_wj_sky_001
+    3300016: ZC_wj_sky_002
+    3300018: ZC_wj_sky_003
+    3300020: ZC_wj_sky_004
+    3300022: ZC_wj_zalan_001
+    3300024: ZC_wj_zalan_002
+    3300026: ZC_wj_zalan_003
+    3300028: ZC_wj_zalan_004
+    3300030: ZC_wj_zalan_005
+    3300032: ZC_wj_zalan_006
+    3300034: ZC_wj_sky_005
+    3300036: ZC_wj_sky_006
+    3300038: ZC_wj_sky_007
+    4300000: ZC_jz_diaoxiang_001
+    4300002: ZC_wj_ludeng_001
+    4300004: ZC_wj_paishuigai_001
+    4300006: ZC_jz_diaoxiang_003
+    4300008: ZC_jz_diaoxiang_004
+    4300010: ZC_jz_diaoxiang_002
+    4300012: ZC_jz_diaoxiang_005
+    4300014: ZC_wj_sky_001
+    4300016: ZC_wj_sky_002
+    4300018: ZC_wj_sky_004
+    4300020: ZC_wj_sky_003
+    4300022: ZC_wj_zalan_005
+    4300024: ZC_wj_zalan_004
+    4300026: ZC_wj_zalan_002
+    4300028: ZC_wj_zalan_001
+    4300030: ZC_wj_zalan_006
+    4300032: ZC_wj_zalan_003
+    4300034: ZC_wj_sky_005
+    4300036: ZC_wj_sky_006
+    4300038: ZC_wj_sky_007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

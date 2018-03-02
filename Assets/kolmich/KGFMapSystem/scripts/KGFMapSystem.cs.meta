@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6586f2552d2474041acfbbc595f98733
+labels:
+- KGFMapSystem
+- map
+- minimap
+- KGFMapIcons
+- kgf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

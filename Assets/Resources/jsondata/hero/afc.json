@@ -1,0 +1,17 @@
+{
+  "1":{
+    "id":1,
+    "hp":0.04,
+    "attack":0.08,
+    "armor":0.1,
+    "magic_resist":0.1,
+    "critical":0.04,
+    "dodge":0.1,
+    "hit_ratio":0.1,
+    "armor_penetration":0.1,
+    "magic_penetration":0.1,
+    "suck_blood":0.08,
+    "tenacity":0.04,
+    "skill":2
+  }
+}

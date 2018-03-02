@@ -1,0 +1,50 @@
+{
+    "1": {
+        "project_id": 1,
+        "sn": 1,
+        "Active_value1": 20,
+        "active_prop1": [[104000200,1]],
+        "prop_explain1": "宝箱内含500金币",
+        "Active_value2": 40,
+        "active_prop2": [[105000200,2]],
+        "prop_explain2": "宝箱内含1000金币、1个经验药剂",
+        "Active_value3": 60,
+        "active_prop3": [[114000200,30]],
+        "prop_explain3": "宝箱内含3000金币、2个经验药剂、1个熊猫灵魂石",
+        "Active_value4": 80,
+        "active_prop4": [[114000200,50]],
+        "prop_explain4": "宝箱内含5000金币、3个经验药剂、2个火女灵魂石"
+    },
+    "2": {
+        "project_id": 2,
+        "sn": 2,
+        "Active_value1": 20,
+        "active_prop1": [[104000200,1]],
+        "prop_explain1": "宝箱内含5个钻石",
+        "Active_value2": 40,
+        "active_prop2": [[105000200,2]],
+        "prop_explain2": "宝箱内含20个钻石、1个经验药剂",
+        "Active_value3": 60,
+        "active_prop3": [[114000200,30]],
+        "prop_explain3": "宝箱内含30个钻石、2个经验药剂、1个隐刺灵魂石",
+        "Active_value4": 80,
+        "active_prop4": [[114000200,50]],
+        "prop_explain4": "宝箱内含50个钻石、3个经验药剂、2个小黑灵魂石"
+    },
+    "3": {
+        "project_id": 3,
+        "sn": 3,
+        "Active_value1": 20,
+        "active_prop1": [[104000200,1]],
+        "prop_explain1": "宝箱内含100点战队经验",
+        "Active_value2": 40,
+        "active_prop2": [[105000200,2]],
+        "prop_explain2": "宝箱内含500点战队经验、3个经验药剂",
+        "Active_value3": 60,
+        "active_prop3": [[114000200,30]],
+        "prop_explain3": "宝箱内含1000点战队经验、2个经验药剂、美杜莎灵魂石",
+        "Active_value4": 80,
+        "active_prop4": [[114000200,50]],
+        "prop_explain4": "宝箱内含2000点战队经验、3个经验药剂、2个水人灵魂石"
+    }
+}

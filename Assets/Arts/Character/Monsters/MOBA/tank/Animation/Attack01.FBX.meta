@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: f49e544d5c0829a4ca0942294f4a70ce
+timeCreated: 1473234158
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Forearm
+    100014: Bip001 L Hand
+    100016: Bip001 L UpperArm
+    100018: Bip001 Neck
+    100020: Bip001 Pelvis
+    100022: Bip001 R Clavicle
+    100024: Bip001 R Finger0
+    100026: Bip001 R Finger01
+    100028: Bip001 R Forearm
+    100030: Bip001 R Hand
+    100032: Bip001 R UpperArm
+    100034: Bip001 Spine
+    100036: Bone001
+    100038: Bone002
+    100040: Bone003
+    100042: Bone005
+    100044: Bone007
+    100046: Bone007L
+    100048: Bone009
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Forearm
+    400014: Bip001 L Hand
+    400016: Bip001 L UpperArm
+    400018: Bip001 Neck
+    400020: Bip001 Pelvis
+    400022: Bip001 R Clavicle
+    400024: Bip001 R Finger0
+    400026: Bip001 R Finger01
+    400028: Bip001 R Forearm
+    400030: Bip001 R Hand
+    400032: Bip001 R UpperArm
+    400034: Bip001 Spine
+    400036: Bone001
+    400038: Bone002
+    400040: Bone003
+    400042: Bone005
+    400044: Bone007
+    400046: Bone007L
+    400048: Bone009
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.7058837
+        functionName: AttackMonster
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone003
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bip001
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          Head
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001
+          L Finger01
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001
+          R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001
+          R Finger01
+        weight: 1
+      - path: Bone001/Bone005/Bip001/Bip001 Pelvis/Bone002
+        weight: 1
+      - path: Bone001/Bone005/Bone007
+        weight: 1
+      - path: Bone001/Bone005/Bone007L
+        weight: 1
+      - path: Bone001/Bone005/Bone009
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

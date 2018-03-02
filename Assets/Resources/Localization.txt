@@ -1,0 +1,49 @@
+﻿Key,English,Chinese,France
+LanguageName,English,汉语,France
+UILevelBtnNormal,Normal,普通,FranceNormal
+UILevelBtnHard,Hard,精英,FranceHard
+UILevelBtnBattle,Hard,征战,FranceHard
+UILevelBtnLineup,Hard,布阵,FranceHard
+UILevelBtnCleanout,Hard,扫荡,FranceHard
+UILevelBtnCleanout5,Hard,扫荡{0}次,FranceHard
+UILevelLaMayReward,Hard,可能获得,FranceHard
+UILevelLaStarConditon,Hard,评星条件,FranceHard
+UILevelLaCleanoutToken,Hard,[bbbbbb]扫荡令[-],FranceHard
+UILevelLaAdvisePower,Hard,推荐战力：{0},FranceHard
+UILevelLaCurrentPower,Hard,我方战力：{0},FranceHard
+UILevelLaRemainTimes,Hard,[bbbbbb]次数：[FF00FF]{0}/{1}[-],FranceHard
+UILevelLaCostVigor,Hard,消耗体力：{0},FranceHard
+UILevelLaNeedLevel,Hard,进入等级：[FF00FF]{0}[-],FranceHard
+HUDCrit,Crit,暴击 ,Crit
+HUDBleeding,Bleeding,流血 ,Crit
+HUDCure,Cure,回复 ,Crit
+HUDMiss,Miss,闪避 ,Miss
+HUDImmune,Immune,免疫 ,Immune
+HUDSuckBlood,SuckBlood,吸血 ,SuckBlood
+HUDAbsorb,Absorb,吸收 ,Absorb
+ChubingCD,{0}SuckBlood,[FF0000]{0}[-] 秒之后出兵 ,{0}SuckBlood
+ChubingCDOver,{0}SuckBlood,马上出兵 ,{0}SuckBlood
+RebornCD,{0}SuckBlood,您已阵亡，[FF0000]{0}[-] 秒之后复活 ,{0}SuckBlood
+FlopCongratulation, Congratulation, 恭喜获得,Congratulation
+FlopBtnConfirm, Congratulation,确定,Congratulation
+FlopBtnAll, Congratulation,全部开启,Congratulation
+FlopBtnAgain, Congratulation,再来一局,Congratulation
+FlopFree, Congratulation,免费,Congratulation
+MobaFirstKill, MobaFirstKill,第一滴血,MobaFirstKill
+MobaEndKill, MobaEndKill,终结,MobaEndKill
+MobaAllKill, MobaAllKill,团灭,MobaAllKill
+MobaTowerKill, MobaTowerKill,摧毁防御塔,MobaTowerKill
+MobaMultiKill, MobaMultiKill,{0}杀,MobaMultiKill
+MobaKillCount1, MobaKillCount1,击杀,MobaKillCount1
+MobaKillCount3, MobaKillCount3,大杀特杀,MobaKillCount3
+MobaKillCount4, MobaKillCount4,杀人如麻,MobaKillCount4
+MobaKillCount5, MobaKillCount5,无人能挡,MobaKillCount5
+MobaKillCount6, MobaKillCount6,横扫千军,MobaKillCount6
+MobaKillCount7, MobaKillCount7,天下无双,MobaKillCount7
+MobaKillGodLike, MobaKillGodLike,超神,MobaKillGodLike
+MobaKillNum2,MobaKillNum2,双,MobaKillNum2
+ChineseNum1,ChineseNum1,一,ChineseNum1
+ChineseNum2,ChineseNum2,二,ChineseNum2
+ChineseNum3,ChineseNum3,三,ChineseNum3
+ChineseNum4,ChineseNum4,四,ChineseNum4
+ChineseNum5,ChineseNum5,五,ChineseNum5

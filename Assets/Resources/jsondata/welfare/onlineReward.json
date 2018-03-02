@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": 1,
+        "online_time": 1,
+        "next_time": 5,
+        "diamond": 10,
+        "gold": 4000,
+        "item": [[105000100,2]]
+    },
+    "2": {
+        "id": 2,
+        "online_time": 5,
+        "next_time": 10,
+        "diamond": 15,
+        "gold": 5000,
+        "item": [[105000100,5]]
+    },
+    "3": {
+        "id": 3,
+        "online_time": 10,
+        "next_time": 15,
+        "diamond": 20,
+        "gold": 8000,
+        "item": [[105000200,1]]
+    },
+    "4": {
+        "id": 4,
+        "online_time": 15,
+        "next_time": 30,
+        "diamond": 25,
+        "gold": 13000,
+        "item": [[105000200,2]]
+    },
+    "5": {
+        "id": 5,
+        "online_time": 30,
+        "next_time": 9999,
+        "diamond": 50,
+        "gold": 20000,
+        "item": [[105000200,3]]
+    }
+}

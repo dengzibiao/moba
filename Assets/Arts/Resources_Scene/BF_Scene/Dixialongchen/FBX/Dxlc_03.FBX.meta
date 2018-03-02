@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: ecdae467fd088a04d9751b9fb21095b3
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hjzc_dm_BBchuang_001
+    100002: hjzc_dm_BBchuang_002
+    100004: hjzc_dm_BBqiang_001
+    100006: hjzc_dm_BBqiang_002
+    100008: hjzc_dm_BBqiang_003
+    100010: hjzc_dm_BBqiang_004
+    100012: //RootNode
+    100014: hjzc_dm_BBchuangpo_001
+    100016: hjzc_dm_BBchuangpo_002
+    100018: hjzc_dm_BBchuangpo_003
+    100020: hjzc_dm_BBchuangpo_004
+    100022: hjzc_dm_BBqiang_005
+    100024: hjzc_dm_BBzhuzipo_001
+    100026: hjzc_dm_BBchuangpo_005
+    400000: hjzc_dm_BBchuang_001
+    400002: hjzc_dm_BBchuang_002
+    400004: hjzc_dm_BBqiang_001
+    400006: hjzc_dm_BBqiang_002
+    400008: hjzc_dm_BBqiang_003
+    400010: hjzc_dm_BBqiang_004
+    400012: //RootNode
+    400014: hjzc_dm_BBchuangpo_001
+    400016: hjzc_dm_BBchuangpo_002
+    400018: hjzc_dm_BBchuangpo_003
+    400020: hjzc_dm_BBchuangpo_004
+    400022: hjzc_dm_BBqiang_005
+    400024: hjzc_dm_BBzhuzipo_001
+    400026: hjzc_dm_BBchuangpo_005
+    2300000: hjzc_dm_BBchuang_001
+    2300002: hjzc_dm_BBchuang_002
+    2300004: hjzc_dm_BBqiang_001
+    2300006: hjzc_dm_BBqiang_002
+    2300008: hjzc_dm_BBqiang_003
+    2300010: hjzc_dm_BBqiang_004
+    2300012: hjzc_dm_BBchuangpo_001
+    2300014: hjzc_dm_BBchuangpo_002
+    2300016: hjzc_dm_BBchuangpo_003
+    2300018: hjzc_dm_BBchuangpo_004
+    2300020: hjzc_dm_BBqiang_005
+    2300022: hjzc_dm_BBzhuzipo_001
+    2300024: hjzc_dm_BBchuangpo_005
+    3300000: hjzc_dm_BBchuang_001
+    3300002: hjzc_dm_BBchuang_002
+    3300004: hjzc_dm_BBqiang_001
+    3300006: hjzc_dm_BBqiang_002
+    3300008: hjzc_dm_BBqiang_003
+    3300010: hjzc_dm_BBqiang_004
+    3300012: hjzc_dm_BBchuangpo_001
+    3300014: hjzc_dm_BBchuangpo_002
+    3300016: hjzc_dm_BBchuangpo_003
+    3300018: hjzc_dm_BBchuangpo_004
+    3300020: hjzc_dm_BBqiang_005
+    3300022: hjzc_dm_BBzhuzipo_001
+    3300024: hjzc_dm_BBchuangpo_005
+    4300000: hjzc_dm_BBqiang_004
+    4300002: hjzc_dm_BBqiang_003
+    4300004: hjzc_dm_BBchuang_001
+    4300006: hjzc_dm_BBqiang_001
+    4300008: hjzc_dm_BBchuang_002
+    4300010: hjzc_dm_BBqiang_002
+    4300012: hjzc_dm_BBchuangpo_002
+    4300014: hjzc_dm_BBchuangpo_001
+    4300016: hjzc_dm_BBchuangpo_003
+    4300018: hjzc_dm_BBchuangpo_004
+    4300020: hjzc_dm_BBzhuzipo_001
+    4300022: hjzc_dm_BBqiang_005
+    4300024: hjzc_dm_BBchuangpo_005
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

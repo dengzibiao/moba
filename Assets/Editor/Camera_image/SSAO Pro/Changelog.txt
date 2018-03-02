@@ -1,0 +1,74 @@
+1.6
+- Removed: "1.1 (Legacy)" mode.
+- Added: Unity 5.1+ users, you can click the top-right help button on the SSAO Pro components at any time to jump to the documentation.
+- Fixed: Sample precision issue in the distance.
+- Fixed: ATI driver bug (the infamous "dot pattern").
+- Fixed: Compilation error on PS4.
+- Misc: Brand new documentation and website.
+
+1.5.1
+- Fixed: Compilation issue when upgrading to Unity 5.1 from an earlier Unity version (UnityEditor API change).
+- Fixed: A few warnings on DirectX 11.
+
+1.5
+- Added: New blur filter, "High Quality Bilateral". Smoother, more stable than the older "Bilateral" and with a lot less pattern artifacts (performances should be very close to the old blur).
+- Added: Optional multi-pass blur (all filters).
+- Fixed: Soft Particles not working correctly when the High Precision Depth Buffer is enabled (Unity 4.x).
+- Fixed: A few bugs with the startup screen.
+- Fixed: Minor compilation bug on PS4.
+- Fixed: Tiny bug with the older "Bilateral" blur filter.
+- Misc: Removed the documentation from the package, it's now online only. Benefits : the package size is a lot smaller and imports faster.
+
+1.4
+- Added: New "Ultra" preset (20 samples).
+- Removed: The "High Precision" field had no use in Unity 5 and will only displayed in Unity 4.
+- Misc: Global refactoring, various tweaks & optimizations.
+- Misc: Shader keyword count down to 7.
+- Misc: Documentation update.
+- Note: Due to some heavy refactoring, upgrading from previous version of SSAO Pro may fail. It's best to remove SSAO Pro from your project entirely and reimport the last version.
+
+1.3.2
+- Fixed: Alpha channel preservation (useful for some old image effects like Glow).
+- Fixed: Better Unity 5 compatibility.
+
+1.3.1
+- Fixed: Shader compilation on DirextX 9 and OpenGL.
+
+1.3
+- Added: An option to switch back to the default depth precision if you can't or don't want to force high precision depth buffer. This works ok with the deferred rendering path but will show artifacts in forward mode, like version 1.1 did.
+- Modified: Tweaking the Distance Cutoff now helps getting way better performances with the "High Precision" mode.
+- Fixed: No more Tiled GPU performances warning on Xbox360 and mobile platforms.
+- Fixed: A few bugs with RenderTextureFormat.
+- Fixed: Issue with the Viewport Rect.
+- Misc: Documentation update.
+
+1.2.3
+- Fixed: Unity 5 beta compatibility. Simply extract the "Unity5_compatibility" package.
+
+1.2.2
+- Fixed: Transparent objects aren't affected by the ambient occlusion anymore.
+
+1.2.1
+- Fixed: No more HideFlags errors on build.
+
+1.2
+- Added: A new, more predictable SSAO variant. This one doesn't depend on the clipping planes and fixes a few self-shadowing bugs. The old SSAO is still available (use the "SSAO Mode" dropdown).
+- Modified: The old SSAO mode "1.1 (Legacy)" now uses a higher precision depth map and works better with the forward rendering path.
+- Modified: Distance cutoff is now always enabled, bringing the "shader keywords" requirement down to 10.
+- Modified: The default noise texture is now automatically applied on creation.
+- Misc: Documentation update.
+- Note: Due to some heavy refactoring, upgrading from previous version of SSAO Pro may fail. It's best to remove SSAO Pro from your project entirely and reimport the last version.
+
+1.1
+- Added: Downsampling. You can choose to downsample the AO pass only or AO + Blur, so you can better control the speed-quality ratio depending on your scene.
+- Removed: Useless "Bilateral Threshold" parameter. This is now hardcoded into the shader.
+- Misc: Documentation update. The "Performances" section has been rewritten and populated with more useful data.
+
+1.0.2
+- Added: A new quickstart launcher when you import or update SSAO Pro.
+- Added: "About SSAO Pro" and "SSAO Pro Manual" in the Help menu.
+- Fixed: The effect wasn't working properly in DirectX mode using the forward rendering path and MSAA.
+- Misc: Various documentation fixes & additions.
+
+1.0.1
+- Misc: Initial release.

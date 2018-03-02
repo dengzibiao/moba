@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: b0d30094345da354493f57f65e39d690
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ll_huyangshu_03_01
+    100002: ll_huyangshu_03_02
+    100004: Object412
+    100006: Object413
+    100008: Object414
+    100010: Object415
+    100012: //RootNode
+    100014: xkez_hc_yeshu_001
+    100016: xkez_hc_yeshu_002
+    100018: xkez_hc_yeshu_003
+    100020: xkez_hc_yeshu_004
+    100022: xkez_hc_huyang_001
+    100024: xkez_hc_huyang_001_1
+    100026: xkez_hc_huyang_002
+    100028: xkez_hc_huyang_002_1
+    100030: xkez_hc_huyang_003
+    100032: xkez_hc_huyang_003_1
+    100034: xkez_hc_huyang_002 1
+    100036: xkez_hc_huyang_002_2
+    100038: xkez_hc_huyang_002_3
+    100040: xkez_hc_yeshu_004 1
+    400000: ll_huyangshu_03_01
+    400002: ll_huyangshu_03_02
+    400004: Object412
+    400006: Object413
+    400008: Object414
+    400010: Object415
+    400012: //RootNode
+    400014: xkez_hc_yeshu_001
+    400016: xkez_hc_yeshu_002
+    400018: xkez_hc_yeshu_003
+    400020: xkez_hc_yeshu_004
+    400022: xkez_hc_huyang_001
+    400024: xkez_hc_huyang_001_1
+    400026: xkez_hc_huyang_002
+    400028: xkez_hc_huyang_002_1
+    400030: xkez_hc_huyang_003
+    400032: xkez_hc_huyang_003_1
+    400034: xkez_hc_huyang_002 1
+    400036: xkez_hc_huyang_002_2
+    400038: xkez_hc_huyang_002_3
+    400040: xkez_hc_yeshu_004 1
+    2300000: ll_huyangshu_03_01
+    2300002: ll_huyangshu_03_02
+    2300004: Object412
+    2300006: Object413
+    2300008: Object414
+    2300010: Object415
+    2300012: xkez_hc_yeshu_001
+    2300014: xkez_hc_yeshu_002
+    2300016: xkez_hc_yeshu_003
+    2300018: xkez_hc_yeshu_004
+    2300020: xkez_hc_huyang_001
+    2300022: xkez_hc_huyang_001_1
+    2300024: xkez_hc_huyang_002
+    2300026: xkez_hc_huyang_002_1
+    2300028: xkez_hc_huyang_003
+    2300030: xkez_hc_huyang_003_1
+    2300032: xkez_hc_huyang_002 1
+    2300034: xkez_hc_huyang_002_2
+    2300036: xkez_hc_huyang_002_3
+    2300038: xkez_hc_yeshu_004 1
+    3300000: ll_huyangshu_03_01
+    3300002: ll_huyangshu_03_02
+    3300004: Object412
+    3300006: Object413
+    3300008: Object414
+    3300010: Object415
+    3300012: xkez_hc_yeshu_001
+    3300014: xkez_hc_yeshu_002
+    3300016: xkez_hc_yeshu_003
+    3300018: xkez_hc_yeshu_004
+    3300020: xkez_hc_huyang_001
+    3300022: xkez_hc_huyang_001_1
+    3300024: xkez_hc_huyang_002
+    3300026: xkez_hc_huyang_002_1
+    3300028: xkez_hc_huyang_003
+    3300030: xkez_hc_huyang_003_1
+    3300032: xkez_hc_huyang_002 1
+    3300034: xkez_hc_huyang_002_2
+    3300036: xkez_hc_huyang_002_3
+    3300038: xkez_hc_yeshu_004 1
+    4300000: xkez_hc_yeshu_004
+    4300002: xkez_hc_yeshu_003
+    4300004: xkez_hc_yeshu_002
+    4300006: xkez_hc_yeshu_001
+    4300008: ll_huyangshu_03_02
+    4300010: ll_huyangshu_03_01
+    4300012: Object412
+    4300014: Object413
+    4300016: Object414
+    4300018: Object415
+    4300020: xkez_hc_huyang_001_1
+    4300022: xkez_hc_huyang_001
+    4300024: xkez_hc_huyang_002
+    4300026: xkez_hc_huyang_003
+    4300028: xkez_hc_huyang_003_1
+    4300030: xkez_hc_huyang_002_1
+    4300032: xkez_hc_huyang_002_2
+    4300034: xkez_hc_huyang_002_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+info face="禹卫书法行书简体" size=-32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=33 base=28 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="ComboCount_0.png"
+chars count=10
+char id=48   x=51    y=78    width=53    height=74    xoffset=0     yoffset=0     xadvance=53    page=0  chnl=15
+char id=49   x=219   y=0     width=36    height=74    xoffset=0     yoffset=0     xadvance=36    page=0  chnl=15
+char id=50   x=58    y=0     width=54    height=76    xoffset=0     yoffset=0     xadvance=54    page=0  chnl=15
+char id=51   x=0     y=154   width=51    height=74    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=52   x=159   y=77    width=52    height=74    xoffset=0     yoffset=0     xadvance=52    page=0  chnl=15
+char id=53   x=113   y=0     width=53    height=76    xoffset=0     yoffset=0     xadvance=53    page=0  chnl=15
+char id=54   x=167   y=0     width=51    height=75    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=55   x=0     y=0     width=57    height=77    xoffset=0     yoffset=0     xadvance=57    page=0  chnl=15
+char id=56   x=105   y=77    width=53    height=74    xoffset=0     yoffset=0     xadvance=53    page=0  chnl=15
+char id=57   x=0     y=78    width=50    height=75    xoffset=0     yoffset=0     xadvance=50    page=0  chnl=15

@@ -1,0 +1,15 @@
+{
+  "20200": {
+    "key": 20200,
+    "sn": 3,
+    "MapName": "PVP_RTF",
+    "Xmin": 0,
+    "Xmax":42,
+    "Xlength": 42,
+    "Zmin":0,
+    "Zmax": 6,
+    "Zlength": 6,
+    "map_info": 20200
+  }
+
+}

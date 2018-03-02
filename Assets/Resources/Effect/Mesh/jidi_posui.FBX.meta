@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 92d3b8ecd4a95a348b3f2e784d5f7886
+timeCreated: 1466754533
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sp_Jidi_01
+    100004: sp_Jidi_02
+    100006: sp_Jidi_03
+    100008: sp_Jidi_04
+    100010: sp_Jidi_05
+    100012: sp_Jidi_07
+    100014: sp_Jidi_08
+    100016: sp_Jidi_09
+    100018: sp_Jidi_10
+    100020: sp_Jidi_11
+    100022: sp_Jidi_12
+    100024: sp_Jidi_13
+    100026: sp_Jidi_14
+    100028: sp_Jidi_15
+    100030: sp_Jidi_16
+    100032: sp_Jidi_17
+    400000: //RootNode
+    400002: sp_Jidi_01
+    400004: sp_Jidi_02
+    400006: sp_Jidi_03
+    400008: sp_Jidi_04
+    400010: sp_Jidi_05
+    400012: sp_Jidi_07
+    400014: sp_Jidi_08
+    400016: sp_Jidi_09
+    400018: sp_Jidi_10
+    400020: sp_Jidi_11
+    400022: sp_Jidi_12
+    400024: sp_Jidi_13
+    400026: sp_Jidi_14
+    400028: sp_Jidi_15
+    400030: sp_Jidi_16
+    400032: sp_Jidi_17
+    2300000: sp_Jidi_01
+    2300002: sp_Jidi_02
+    2300004: sp_Jidi_03
+    2300006: sp_Jidi_04
+    2300008: sp_Jidi_05
+    2300010: sp_Jidi_07
+    2300012: sp_Jidi_08
+    2300014: sp_Jidi_09
+    2300016: sp_Jidi_10
+    2300018: sp_Jidi_11
+    2300020: sp_Jidi_12
+    2300022: sp_Jidi_13
+    2300024: sp_Jidi_14
+    2300026: sp_Jidi_15
+    2300028: sp_Jidi_16
+    2300030: sp_Jidi_17
+    3300000: sp_Jidi_01
+    3300002: sp_Jidi_02
+    3300004: sp_Jidi_03
+    3300006: sp_Jidi_04
+    3300008: sp_Jidi_05
+    3300010: sp_Jidi_07
+    3300012: sp_Jidi_08
+    3300014: sp_Jidi_09
+    3300016: sp_Jidi_10
+    3300018: sp_Jidi_11
+    3300020: sp_Jidi_12
+    3300022: sp_Jidi_13
+    3300024: sp_Jidi_14
+    3300026: sp_Jidi_15
+    3300028: sp_Jidi_16
+    3300030: sp_Jidi_17
+    4300000: sp_Jidi_14
+    4300002: sp_Jidi_15
+    4300004: sp_Jidi_03
+    4300006: sp_Jidi_04
+    4300008: sp_Jidi_05
+    4300010: sp_Jidi_07
+    4300012: sp_Jidi_01
+    4300014: sp_Jidi_09
+    4300016: sp_Jidi_10
+    4300018: sp_Jidi_11
+    4300020: sp_Jidi_12
+    4300022: sp_Jidi_13
+    4300024: sp_Jidi_02
+    4300026: sp_Jidi_08
+    4300028: sp_Jidi_16
+    4300030: sp_Jidi_17
+    7400000: Jidi_001_posun
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

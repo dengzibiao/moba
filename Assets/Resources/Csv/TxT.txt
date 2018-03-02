@@ -1,0 +1,1 @@
+RoleData,HeroTable,Login,Skill,Item,StarUpgrade,HeroData,Shop,PlayerUpgrade,EquipUpgrade,ResetLater,GoldenHand,HeroUpgrade

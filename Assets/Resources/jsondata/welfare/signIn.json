@@ -1,0 +1,212 @@
+{
+    "1": {
+        "day": 1,
+        "reward_prop": [104000100,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "2": {
+        "day": 2,
+        "reward_prop": [],
+        "reward_money": 40,
+        "vip_limit": 0
+    },
+    "3": {
+        "day": 3,
+        "reward_prop": [107001600,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "4": {
+        "day": 4,
+        "reward_prop": [109000100,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "5": {
+        "day": 5,
+        "reward_prop": [105000100,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "6": {
+        "day": 6,
+        "reward_prop": [104000100,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "7": {
+        "day": 7,
+        "reward_prop": [],
+        "reward_money": 80,
+        "vip_limit": 0
+    },
+    "8": {
+        "day": 8,
+        "reward_prop": [106001600,20],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "9": {
+        "day": 9,
+        "reward_prop": [109000100,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "10": {
+        "day": 10,
+        "reward_prop": [105000100,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "11": {
+        "day": 11,
+        "reward_prop": [104000100,3],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "12": {
+        "day": 12,
+        "reward_prop": [],
+        "reward_money": 120,
+        "vip_limit": 0
+    },
+    "13": {
+        "day": 13,
+        "reward_prop": [106001600,20],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "14": {
+        "day": 14,
+        "reward_prop": [109000200,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "15": {
+        "day": 15,
+        "reward_prop": [105000200,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "16": {
+        "day": 16,
+        "reward_prop": [104000200,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "17": {
+        "day": 17,
+        "reward_prop": [],
+        "reward_money": 160,
+        "vip_limit": 0
+    },
+    "18": {
+        "day": 18,
+        "reward_prop": [106001600,20],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "19": {
+        "day": 19,
+        "reward_prop": [109000200,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "20": {
+        "day": 20,
+        "reward_prop": [105000200,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "21": {
+        "day": 21,
+        "reward_prop": [104000200,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "22": {
+        "day": 22,
+        "reward_prop": [],
+        "reward_money": 200,
+        "vip_limit": 0
+    },
+    "23": {
+        "day": 23,
+        "reward_prop": [106001600,20],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "24": {
+        "day": 24,
+        "reward_prop": [109000300,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "25": {
+        "day": 25,
+        "reward_prop": [105000300,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "26": {
+        "day": 26,
+        "reward_prop": [104000300,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "27": {
+        "day": 27,
+        "reward_prop": [],
+        "reward_money": 240,
+        "vip_limit": 0
+    },
+    "28": {
+        "day": 28,
+        "reward_prop": [106001600,20],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "29": {
+        "day": 29,
+        "reward_prop": [109000400,1],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "30": {
+        "day": 30,
+        "reward_prop": [105000300,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "31": {
+        "day": 31,
+        "reward_prop": [104000300,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "40": {
+        "day": 40,
+        "reward_prop": [109000100,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "41": {
+        "day": 41,
+        "reward_prop": [109000200,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "42": {
+        "day": 42,
+        "reward_prop": [109000300,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    },
+    "43": {
+        "day": 43,
+        "reward_prop": [109000400,2],
+        "reward_money": 0,
+        "vip_limit": 0
+    }
+}

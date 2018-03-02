@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: f17f9564a6f756e4cb541761a7c52963
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: zhucheng03-jianzhu01
+    100004: zhucheng03-jianzhu02
+    100006: zhucheng03-jianzhu03
+    100008: zhucheng03-jianzhu04
+    100010: zhucheng03-jianzhu05
+    100012: zhucheng03-jianzhu06
+    100014: zhucheng03-jianzhu07
+    100016: zhucheng03-jianzhu08
+    100018: zhucheng03-jianzhu09
+    100020: zhucheng03-jianzhu10
+    100022: zhucheng03-jianzhu11
+    100024: zhucheng03-jianzhu12
+    100026: zhucheng03-jianzhu13
+    100028: zhucheng03-jianzhu14
+    100030: zhucheng03-jianzhu15A
+    100032: zhucheng03-jianzhu16
+    100034: zhucheng03-jianzhu17
+    100036: zhucheng03-jianzhu18
+    100038: zhucheng03-jianzhu19
+    100040: zhucheng03-jianzhu20
+    100042: zhucheng03-jianzhu21
+    100044: zhucheng03-jianzhu22
+    100046: zhucheng03-jianzhu23
+    400000: //RootNode
+    400002: zhucheng03-jianzhu01
+    400004: zhucheng03-jianzhu02
+    400006: zhucheng03-jianzhu03
+    400008: zhucheng03-jianzhu04
+    400010: zhucheng03-jianzhu05
+    400012: zhucheng03-jianzhu06
+    400014: zhucheng03-jianzhu07
+    400016: zhucheng03-jianzhu08
+    400018: zhucheng03-jianzhu09
+    400020: zhucheng03-jianzhu10
+    400022: zhucheng03-jianzhu11
+    400024: zhucheng03-jianzhu12
+    400026: zhucheng03-jianzhu13
+    400028: zhucheng03-jianzhu14
+    400030: zhucheng03-jianzhu15A
+    400032: zhucheng03-jianzhu16
+    400034: zhucheng03-jianzhu17
+    400036: zhucheng03-jianzhu18
+    400038: zhucheng03-jianzhu19
+    400040: zhucheng03-jianzhu20
+    400042: zhucheng03-jianzhu21
+    400044: zhucheng03-jianzhu22
+    400046: zhucheng03-jianzhu23
+    2300000: zhucheng03-jianzhu01
+    2300002: zhucheng03-jianzhu02
+    2300004: zhucheng03-jianzhu03
+    2300006: zhucheng03-jianzhu04
+    2300008: zhucheng03-jianzhu05
+    2300010: zhucheng03-jianzhu06
+    2300012: zhucheng03-jianzhu07
+    2300014: zhucheng03-jianzhu08
+    2300016: zhucheng03-jianzhu09
+    2300018: zhucheng03-jianzhu10
+    2300020: zhucheng03-jianzhu11
+    2300022: zhucheng03-jianzhu12
+    2300024: zhucheng03-jianzhu13
+    2300026: zhucheng03-jianzhu14
+    2300028: zhucheng03-jianzhu15A
+    2300030: zhucheng03-jianzhu16
+    2300032: zhucheng03-jianzhu17
+    2300034: zhucheng03-jianzhu18
+    2300036: zhucheng03-jianzhu19
+    2300038: zhucheng03-jianzhu20
+    2300040: zhucheng03-jianzhu21
+    2300042: zhucheng03-jianzhu22
+    2300044: zhucheng03-jianzhu23
+    3300000: zhucheng03-jianzhu01
+    3300002: zhucheng03-jianzhu02
+    3300004: zhucheng03-jianzhu03
+    3300006: zhucheng03-jianzhu04
+    3300008: zhucheng03-jianzhu05
+    3300010: zhucheng03-jianzhu06
+    3300012: zhucheng03-jianzhu07
+    3300014: zhucheng03-jianzhu08
+    3300016: zhucheng03-jianzhu09
+    3300018: zhucheng03-jianzhu10
+    3300020: zhucheng03-jianzhu11
+    3300022: zhucheng03-jianzhu12
+    3300024: zhucheng03-jianzhu13
+    3300026: zhucheng03-jianzhu14
+    3300028: zhucheng03-jianzhu15A
+    3300030: zhucheng03-jianzhu16
+    3300032: zhucheng03-jianzhu17
+    3300034: zhucheng03-jianzhu18
+    3300036: zhucheng03-jianzhu19
+    3300038: zhucheng03-jianzhu20
+    3300040: zhucheng03-jianzhu21
+    3300042: zhucheng03-jianzhu22
+    3300044: zhucheng03-jianzhu23
+    4300000: zhucheng03-jianzhu15A
+    4300002: zhucheng03-jianzhu05
+    4300004: zhucheng03-jianzhu08
+    4300006: zhucheng03-jianzhu01
+    4300008: zhucheng03-jianzhu02
+    4300010: zhucheng03-jianzhu03
+    4300012: zhucheng03-jianzhu04
+    4300014: zhucheng03-jianzhu06
+    4300016: zhucheng03-jianzhu07
+    4300018: zhucheng03-jianzhu09
+    4300020: zhucheng03-jianzhu10
+    4300022: zhucheng03-jianzhu11
+    4300024: zhucheng03-jianzhu12
+    4300026: zhucheng03-jianzhu13
+    4300028: zhucheng03-jianzhu14
+    4300030: zhucheng03-jianzhu16
+    4300032: zhucheng03-jianzhu19
+    4300034: zhucheng03-jianzhu22
+    4300036: zhucheng03-jianzhu17
+    4300038: zhucheng03-jianzhu20
+    4300040: zhucheng03-jianzhu21
+    4300042: zhucheng03-jianzhu23
+    4300044: zhucheng03-jianzhu18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

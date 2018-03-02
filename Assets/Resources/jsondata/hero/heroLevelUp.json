@@ -1,0 +1,562 @@
+{
+    "1": {
+        "id": 1,
+        "exp": 12,
+        "skill_limit": 1,
+        "skill_ceiling": 1,
+        "grade": 0
+    },
+    "2": {
+        "id": 2,
+        "exp": 13,
+        "skill_limit": 1,
+        "skill_ceiling": 2,
+        "grade": 0
+    },
+    "3": {
+        "id": 3,
+        "exp": 20,
+        "skill_limit": 1,
+        "skill_ceiling": 3,
+        "grade": 0
+    },
+    "4": {
+        "id": 4,
+        "exp": 30,
+        "skill_limit": 1,
+        "skill_ceiling": 4,
+        "grade": 1
+    },
+    "5": {
+        "id": 5,
+        "exp": 50,
+        "skill_limit": 1,
+        "skill_ceiling": 5,
+        "grade": 1
+    },
+    "6": {
+        "id": 6,
+        "exp": 80,
+        "skill_limit": 2,
+        "skill_ceiling": 6,
+        "grade": 1
+    },
+    "7": {
+        "id": 7,
+        "exp": 100,
+        "skill_limit": 2,
+        "skill_ceiling": 7,
+        "grade": 2
+    },
+    "8": {
+        "id": 8,
+        "exp": 120,
+        "skill_limit": 2,
+        "skill_ceiling": 8,
+        "grade": 2
+    },
+    "9": {
+        "id": 9,
+        "exp": 150,
+        "skill_limit": 2,
+        "skill_ceiling": 9,
+        "grade": 2
+    },
+    "10": {
+        "id": 10,
+        "exp": 150,
+        "skill_limit": 2,
+        "skill_ceiling": 10,
+        "grade": 3
+    },
+    "11": {
+        "id": 11,
+        "exp": 210,
+        "skill_limit": 3,
+        "skill_ceiling": 11,
+        "grade": 3
+    },
+    "12": {
+        "id": 12,
+        "exp": 220,
+        "skill_limit": 3,
+        "skill_ceiling": 12,
+        "grade": 3
+    },
+    "13": {
+        "id": 13,
+        "exp": 220,
+        "skill_limit": 3,
+        "skill_ceiling": 13,
+        "grade": 3
+    },
+    "14": {
+        "id": 14,
+        "exp": 230,
+        "skill_limit": 3,
+        "skill_ceiling": 14,
+        "grade": 3
+    },
+    "15": {
+        "id": 15,
+        "exp": 240,
+        "skill_limit": 3,
+        "skill_ceiling": 15,
+        "grade": 4
+    },
+    "16": {
+        "id": 16,
+        "exp": 270,
+        "skill_limit": 4,
+        "skill_ceiling": 16,
+        "grade": 4
+    },
+    "17": {
+        "id": 17,
+        "exp": 280,
+        "skill_limit": 4,
+        "skill_ceiling": 17,
+        "grade": 4
+    },
+    "18": {
+        "id": 18,
+        "exp": 290,
+        "skill_limit": 4,
+        "skill_ceiling": 18,
+        "grade": 5
+    },
+    "19": {
+        "id": 19,
+        "exp": 290,
+        "skill_limit": 4,
+        "skill_ceiling": 19,
+        "grade": 5
+    },
+    "20": {
+        "id": 20,
+        "exp": 300,
+        "skill_limit": 4,
+        "skill_ceiling": 20,
+        "grade": 5
+    },
+    "21": {
+        "id": 21,
+        "exp": 310,
+        "skill_limit": 4,
+        "skill_ceiling": 21,
+        "grade": 5
+    },
+    "22": {
+        "id": 22,
+        "exp": 320,
+        "skill_limit": 4,
+        "skill_ceiling": 22,
+        "grade": 5
+    },
+    "23": {
+        "id": 23,
+        "exp": 330,
+        "skill_limit": 4,
+        "skill_ceiling": 23,
+        "grade": 6
+    },
+    "24": {
+        "id": 24,
+        "exp": 340,
+        "skill_limit": 4,
+        "skill_ceiling": 24,
+        "grade": 6
+    },
+    "25": {
+        "id": 25,
+        "exp": 350,
+        "skill_limit": 4,
+        "skill_ceiling": 25,
+        "grade": 6
+    },
+    "26": {
+        "id": 26,
+        "exp": 360,
+        "skill_limit": 4,
+        "skill_ceiling": 26,
+        "grade": 6
+    },
+    "27": {
+        "id": 27,
+        "exp": 370,
+        "skill_limit": 4,
+        "skill_ceiling": 27,
+        "grade": 6
+    },
+    "28": {
+        "id": 28,
+        "exp": 380,
+        "skill_limit": 4,
+        "skill_ceiling": 28,
+        "grade": 6
+    },
+    "29": {
+        "id": 29,
+        "exp": 390,
+        "skill_limit": 4,
+        "skill_ceiling": 29,
+        "grade": 7
+    },
+    "30": {
+        "id": 30,
+        "exp": 400,
+        "skill_limit": 4,
+        "skill_ceiling": 30,
+        "grade": 7
+    },
+    "31": {
+        "id": 31,
+        "exp": 530,
+        "skill_limit": 4,
+        "skill_ceiling": 31,
+        "grade": 7
+    },
+    "32": {
+        "id": 32,
+        "exp": 680,
+        "skill_limit": 4,
+        "skill_ceiling": 32,
+        "grade": 7
+    },
+    "33": {
+        "id": 33,
+        "exp": 830,
+        "skill_limit": 4,
+        "skill_ceiling": 33,
+        "grade": 7
+    },
+    "34": {
+        "id": 34,
+        "exp": 980,
+        "skill_limit": 4,
+        "skill_ceiling": 34,
+        "grade": 7
+    },
+    "35": {
+        "id": 35,
+        "exp": 1100,
+        "skill_limit": 4,
+        "skill_ceiling": 35,
+        "grade": 7
+    },
+    "36": {
+        "id": 36,
+        "exp": 1400,
+        "skill_limit": 4,
+        "skill_ceiling": 36,
+        "grade": 7
+    },
+    "37": {
+        "id": 37,
+        "exp": 1700,
+        "skill_limit": 4,
+        "skill_ceiling": 37,
+        "grade": 7
+    },
+    "38": {
+        "id": 38,
+        "exp": 2000,
+        "skill_limit": 4,
+        "skill_ceiling": 38,
+        "grade": 7
+    },
+    "39": {
+        "id": 39,
+        "exp": 2300,
+        "skill_limit": 4,
+        "skill_ceiling": 39,
+        "grade": 7
+    },
+    "40": {
+        "id": 40,
+        "exp": 2600,
+        "skill_limit": 4,
+        "skill_ceiling": 40,
+        "grade": 7
+    },
+    "41": {
+        "id": 41,
+        "exp": 3000,
+        "skill_limit": 4,
+        "skill_ceiling": 41,
+        "grade": 7
+    },
+    "42": {
+        "id": 42,
+        "exp": 3300,
+        "skill_limit": 4,
+        "skill_ceiling": 42,
+        "grade": 7
+    },
+    "43": {
+        "id": 43,
+        "exp": 3700,
+        "skill_limit": 4,
+        "skill_ceiling": 43,
+        "grade": 7
+    },
+    "44": {
+        "id": 44,
+        "exp": 4100,
+        "skill_limit": 4,
+        "skill_ceiling": 44,
+        "grade": 7
+    },
+    "45": {
+        "id": 45,
+        "exp": 4500,
+        "skill_limit": 4,
+        "skill_ceiling": 45,
+        "grade": 7
+    },
+    "46": {
+        "id": 46,
+        "exp": 5000,
+        "skill_limit": 4,
+        "skill_ceiling": 46,
+        "grade": 7
+    },
+    "47": {
+        "id": 47,
+        "exp": 5400,
+        "skill_limit": 4,
+        "skill_ceiling": 47,
+        "grade": 7
+    },
+    "48": {
+        "id": 48,
+        "exp": 5900,
+        "skill_limit": 4,
+        "skill_ceiling": 48,
+        "grade": 7
+    },
+    "49": {
+        "id": 49,
+        "exp": 6400,
+        "skill_limit": 4,
+        "skill_ceiling": 49,
+        "grade": 7
+    },
+    "50": {
+        "id": 50,
+        "exp": 7000,
+        "skill_limit": 4,
+        "skill_ceiling": 50,
+        "grade": 7
+    },
+    "51": {
+        "id": 51,
+        "exp": 7500,
+        "skill_limit": 4,
+        "skill_ceiling": 51,
+        "grade": 7
+    },
+    "52": {
+        "id": 52,
+        "exp": 8100,
+        "skill_limit": 4,
+        "skill_ceiling": 52,
+        "grade": 7
+    },
+    "53": {
+        "id": 53,
+        "exp": 8700,
+        "skill_limit": 4,
+        "skill_ceiling": 53,
+        "grade": 7
+    },
+    "54": {
+        "id": 54,
+        "exp": 9300,
+        "skill_limit": 4,
+        "skill_ceiling": 54,
+        "grade": 7
+    },
+    "55": {
+        "id": 55,
+        "exp": 10000,
+        "skill_limit": 4,
+        "skill_ceiling": 55,
+        "grade": 7
+    },
+    "56": {
+        "id": 56,
+        "exp": 11000,
+        "skill_limit": 4,
+        "skill_ceiling": 56,
+        "grade": 7
+    },
+    "57": {
+        "id": 57,
+        "exp": 11000,
+        "skill_limit": 4,
+        "skill_ceiling": 57,
+        "grade": 7
+    },
+    "58": {
+        "id": 58,
+        "exp": 12000,
+        "skill_limit": 4,
+        "skill_ceiling": 58,
+        "grade": 7
+    },
+    "59": {
+        "id": 59,
+        "exp": 13000,
+        "skill_limit": 4,
+        "skill_ceiling": 59,
+        "grade": 7
+    },
+    "60": {
+        "id": 60,
+        "exp": 14000,
+        "skill_limit": 4,
+        "skill_ceiling": 60,
+        "grade": 7
+    },
+    "61": {
+        "id": 61,
+        "exp": 15000,
+        "skill_limit": 4,
+        "skill_ceiling": 61,
+        "grade": 7
+    },
+    "62": {
+        "id": 62,
+        "exp": 15000,
+        "skill_limit": 4,
+        "skill_ceiling": 62,
+        "grade": 7
+    },
+    "63": {
+        "id": 63,
+        "exp": 16000,
+        "skill_limit": 4,
+        "skill_ceiling": 63,
+        "grade": 7
+    },
+    "64": {
+        "id": 64,
+        "exp": 17000,
+        "skill_limit": 4,
+        "skill_ceiling": 64,
+        "grade": 7
+    },
+    "65": {
+        "id": 65,
+        "exp": 18000,
+        "skill_limit": 4,
+        "skill_ceiling": 65,
+        "grade": 7
+    },
+    "66": {
+        "id": 66,
+        "exp": 20000,
+        "skill_limit": 4,
+        "skill_ceiling": 66,
+        "grade": 7
+    },
+    "67": {
+        "id": 67,
+        "exp": 21000,
+        "skill_limit": 4,
+        "skill_ceiling": 67,
+        "grade": 7
+    },
+    "68": {
+        "id": 68,
+        "exp": 22000,
+        "skill_limit": 4,
+        "skill_ceiling": 68,
+        "grade": 7
+    },
+    "69": {
+        "id": 69,
+        "exp": 23000,
+        "skill_limit": 4,
+        "skill_ceiling": 69,
+        "grade": 7
+    },
+    "70": {
+        "id": 70,
+        "exp": 24000,
+        "skill_limit": 4,
+        "skill_ceiling": 70,
+        "grade": 7
+    },
+    "71": {
+        "id": 71,
+        "exp": 26000,
+        "skill_limit": 4,
+        "skill_ceiling": 71,
+        "grade": 7
+    },
+    "72": {
+        "id": 72,
+        "exp": 27000,
+        "skill_limit": 4,
+        "skill_ceiling": 72,
+        "grade": 7
+    },
+    "73": {
+        "id": 73,
+        "exp": 28000,
+        "skill_limit": 4,
+        "skill_ceiling": 73,
+        "grade": 7
+    },
+    "74": {
+        "id": 74,
+        "exp": 30000,
+        "skill_limit": 4,
+        "skill_ceiling": 74,
+        "grade": 7
+    },
+    "75": {
+        "id": 75,
+        "exp": 31000,
+        "skill_limit": 4,
+        "skill_ceiling": 75,
+        "grade": 7
+    },
+    "76": {
+        "id": 76,
+        "exp": 33000,
+        "skill_limit": 4,
+        "skill_ceiling": 76,
+        "grade": 7
+    },
+    "77": {
+        "id": 77,
+        "exp": 35000,
+        "skill_limit": 4,
+        "skill_ceiling": 77,
+        "grade": 7
+    },
+    "78": {
+        "id": 78,
+        "exp": 36000,
+        "skill_limit": 4,
+        "skill_ceiling": 78,
+        "grade": 7
+    },
+    "79": {
+        "id": 79,
+        "exp": 38000,
+        "skill_limit": 4,
+        "skill_ceiling": 79,
+        "grade": 7
+    },
+    "80": {
+        "id": 80,
+        "exp": 40000,
+        "skill_limit": 4,
+        "skill_ceiling": 80,
+        "grade": 7
+    }
+}

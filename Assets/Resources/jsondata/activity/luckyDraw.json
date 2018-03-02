@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": 1,
+        "time": 1,
+        "diamond_cost": 10,
+        "basic_rate": 1,
+        "common_difference": 0,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "2": {
+        "id": 2,
+        "time": 4,
+        "diamond_cost": 20,
+        "basic_rate": 1.04,
+        "common_difference": 0.04,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "3": {
+        "id": 3,
+        "time": 10,
+        "diamond_cost": 40,
+        "basic_rate": 1.3,
+        "common_difference": 0.02,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "4": {
+        "id": 4,
+        "time": 20,
+        "diamond_cost": 100,
+        "basic_rate": 1.7,
+        "common_difference": 0.01,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "5": {
+        "id": 5,
+        "time": 40,
+        "diamond_cost": 200,
+        "basic_rate": 2.21,
+        "common_difference": 0.01,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "6": {
+        "id": 6,
+        "time": 80,
+        "diamond_cost": 400,
+        "basic_rate": 2.94,
+        "common_difference": 0.01,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "7": {
+        "id": 7,
+        "time": 160,
+        "diamond_cost": 800,
+        "basic_rate": 3.99,
+        "common_difference": 0.01,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    },
+    "8": {
+        "id": 8,
+        "time": 300,
+        "diamond_cost": 1200,
+        "basic_rate": 5.56,
+        "common_difference": 0.01,
+        "midas2": 8,
+        "midas5": 5,
+        "midas10": 3
+    }
+}

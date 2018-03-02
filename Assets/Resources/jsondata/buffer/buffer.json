@@ -1,0 +1,233 @@
+{
+  "401000100":{
+    "state_id ":401000100,
+    "state_name":"普伤加成",
+    "description":"普攻每段伤害加成",
+    "types":4,
+    "state_effects":null
+  },
+  "401000200":{
+    "state_id ":401000200,
+    "state_name":"减速",
+    "description":"百分比减少移动速度（参数百分比）",
+    "types":3,
+    "state_effects":null
+  },
+  "401000300":{
+    "state_id ":401000300,
+    "state_name":"冻结",
+    "description":"无法行动",
+    "types":1,
+    "state_effects":null
+  },
+  "401000400":{
+    "state_id ":401000400,
+    "state_name":"抵抗",
+    "description":"无法受到伤害，但可以被控制",
+    "types":7,
+    "state_effects":null
+  },
+  "401000500":{
+    "state_id ":401000500,
+    "state_name":"流血",
+    "description":"持续性伤害",
+    "types":5,
+    "state_effects":null
+  },
+  "401000600":{
+    "state_id ":401000600,
+    "state_name":"击退",
+    "description":"向受击方向强制移动一段距离",
+    "types":2,
+    "state_effects":null
+  },
+  "401000700":{
+    "state_id ":401000700,
+    "state_name":"吸血",
+    "description":"提升吸血等级",
+    "types":4,
+    "state_effects":null
+  },
+  "401000800":{
+    "state_id ":401000800,
+    "state_name":"强击",
+    "description":"增加攻击力",
+    "types":4,
+    "state_effects":null
+  },
+  "401000900":{
+    "state_id ":401000900,
+    "state_name":"耐力",
+    "description":"增加生命值上限",
+    "types":4,
+    "state_effects":null
+  },
+  "401001000":{
+    "state_id ":401001000,
+    "state_name":"治疗",
+    "description":"一次性恢复生命值",
+    "types":4,
+    "state_effects":null
+  },
+  "401001100":{
+    "state_id ":401001100,
+    "state_name":"恢复",
+    "description":"持续恢复生命值",
+    "types":4,
+    "state_effects":null
+  },
+  "401001200":{
+    "state_id ":401001200,
+    "state_name":"金刚",
+    "description":"增加物理防御值",
+    "types":4,
+    "state_effects":null
+  },
+  "401001300":{
+    "state_id ":401001300,
+    "state_name":"易伤",
+    "description":"受到更多伤害(参数百分比)",
+    "types":3,
+    "state_effects":null
+  },
+  "401001400":{
+    "state_id ":401001400,
+    "state_name":"眩晕",
+    "description":"无法行动",
+    "types":1,
+    "state_effects":null
+  },
+  "401001500":{
+    "state_id ":401001500,
+    "state_name":"急速",
+    "description":"增加攻击速度",
+    "types":4,
+    "state_effects":null
+  },
+  "401001600":{
+    "state_id ":401001600,
+    "state_name":"慢打",
+    "description":"减少攻击速度",
+    "types":3,
+    "state_effects":null
+  },
+  "401001700":{
+    "state_id ":401001700,
+    "state_name":"吸血光环",
+    "description":"范围内友军普攻造成伤害的百分比转换成其生命值",
+    "types":8,
+    "state_effects":null
+  },
+  "401001800":{
+    "state_id ":401001800,
+    "state_name":"奔腾",
+    "description":"增加移动速度(百分比）",
+    "types":4,
+    "state_effects":null
+  },
+  "401001900":{
+    "state_id ":401001900,
+    "state_name":"溅射",
+    "description":"对目标造成伤害，其周围目标受到溅射的百分比伤害",
+    "types":6,
+    "state_effects":null
+  },
+  "401002000":{
+    "state_id ":401002000,
+    "state_name":"击飞",
+    "description":"被垂直击飞到空中",
+    "types":2,
+    "state_effects":null
+  },
+  "401002100":{
+    "state_id ":401002100,
+    "state_name":"沉默",
+    "description":"无法施放技能，但可以普攻和移动",
+    "types":1,
+    "state_effects":null
+  },
+  "401002200":{
+    "state_id ":401002200,
+    "state_name":"虚无",
+    "description":"无法施放技能和普攻，但可以移动，无法受到物理伤害",
+    "types":1,
+    "state_effects":null
+  },
+  "401002300":{
+    "state_id ":401002300,
+    "state_name":"冰女特质：寒霜",
+    "description":"减少移动速度",
+    "types":3,
+    "state_effects":null
+  },
+  "401002400":{
+    "state_id ":401002400,
+    "state_name":"无敌",
+    "description":"无法受到伤害和控制",
+    "types":7,
+    "state_effects":null
+  },
+  "401002500":{
+    "state_id ":401002500,
+    "state_name":"护盾",
+    "description":"吸收伤害",
+    "types":4,
+    "state_effects":null
+  },
+  "401002600":{
+    "state_id ":401002600,
+    "state_name":"禁锢",
+    "description":"无法移动",
+    "types":1,
+    "state_effects":null
+  },
+  "401002700":{
+    "state_id ":401002700,
+    "state_name":"击倒",
+    "description":"击退并击倒",
+    "types":2,
+    "state_effects":null
+  },
+  "401002800":{
+    "state_id ":401002800,
+    "state_name":"隐身",
+    "description":"隐身",
+    "types":9,
+    "state_effects":null
+  },
+  "401002900":{
+    "state_id ":401002900,
+    "state_name":"魔免",
+    "description":"免疫魔法伤害",
+    "types":7,
+    "state_effects":null
+  },
+  "401003000":{
+    "state_id ":401003000,
+    "state_name":"物免",
+    "description":"免疫物理伤害",
+    "types":7,
+    "state_effects":null
+  },
+  "401003100":{
+    "state_id ":401003100,
+    "state_name":"免疫控制",
+    "description":"免疫控制效果",
+    "types":7,
+    "state_effects":null
+  },
+  "401003200":{
+    "state_id ":401003200,
+    "state_name":"模糊",
+    "description":"增加闪避等级",
+    "types":4,
+    "state_effects":null
+  },
+  "401003300":{
+    "state_id ":401003300,
+    "state_name":"重伤",
+    "description":"百分比降低治疗效果",
+    "types":3,
+    "state_effects":null
+  }
+}

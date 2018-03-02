@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: 8dc0ab51e0675634fa67e5306e2fe1dc
+timeCreated: 1476794754
+||||||| .r8343
+guid: b536c0e1af354564d927f340528b74c6
+timeCreated: 1476782897
+=======
+guid: cc1bdbbaad7cce042b6e6ffc8dd4c46c
+timeCreated: 1476842807
+>>>>>>> .r8562
+licenseType: Pro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

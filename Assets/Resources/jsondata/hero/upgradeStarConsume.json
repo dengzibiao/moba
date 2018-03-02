@@ -1,0 +1,37 @@
+{
+    "1": {
+        "star": 1,
+        "call_stone_num": 10,
+        "evolve_cost": 0,
+        "evolve_stone_num": 0,
+        "convert_stone_num": 7
+    },
+    "2": {
+        "star": 2,
+        "call_stone_num": 30,
+        "evolve_cost": 30000,
+        "evolve_stone_num": 20,
+        "convert_stone_num": 18
+    },
+    "3": {
+        "star": 3,
+        "call_stone_num": 80,
+        "evolve_cost": 100000,
+        "evolve_stone_num": 50,
+        "convert_stone_num": 30
+    },
+    "4": {
+        "star": 4,
+        "call_stone_num": 180,
+        "evolve_cost": 220000,
+        "evolve_stone_num": 100,
+        "convert_stone_num": 0
+    },
+    "5": {
+        "star": 5,
+        "call_stone_num": 330,
+        "evolve_cost": 1000000,
+        "evolve_stone_num": 150,
+        "convert_stone_num": 0
+    }
+}

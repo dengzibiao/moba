@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 12642f7cae0015a478d0159f3062f77c
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: xke_dm_BBzhuzi_001
+    100002: xke_dm_BBzhuzi_002
+    100004: xke_dm_BBzhuzi_003
+    100006: xke_dm_BBzhuzi_004
+    100008: xke_dm_BBzhuzi_004_1
+    100010: xke_dm_BBzhuzi_004_2
+    100012: xke_dm_BBzhuzi_004_3
+    100014: xke_dm_BBzhuzi_004_4
+    100016: xke_dm_BBzhuzi_004_5
+    100018: xke_dm_BBzhuzi_005
+    100020: xke_jz_chuan_001
+    100022: xke_jz_chuan_002
+    100024: xke_jz_damen_001
+    100026: xke_jz_damen_002
+    100028: //RootNode
+    100030: xke_dm_BBzhuzi_002_1
+    100032: xke_dm_BBzhuzi_002_2
+    100034: xke_dm_BBzhuzi_002_3
+    100036: xke_dm_BBzhuzi_002_4
+    100038: xke_jz_damen_003
+    100040: xke_dm_BBzhuzi_006
+    100042: xke_wj_tiedengi_001
+    400000: xke_dm_BBzhuzi_001
+    400002: xke_dm_BBzhuzi_002
+    400004: xke_dm_BBzhuzi_003
+    400006: xke_dm_BBzhuzi_004
+    400008: xke_dm_BBzhuzi_004_1
+    400010: xke_dm_BBzhuzi_004_2
+    400012: xke_dm_BBzhuzi_004_3
+    400014: xke_dm_BBzhuzi_004_4
+    400016: xke_dm_BBzhuzi_004_5
+    400018: xke_dm_BBzhuzi_005
+    400020: xke_jz_chuan_001
+    400022: xke_jz_chuan_002
+    400024: xke_jz_damen_001
+    400026: xke_jz_damen_002
+    400028: //RootNode
+    400030: xke_dm_BBzhuzi_002_1
+    400032: xke_dm_BBzhuzi_002_2
+    400034: xke_dm_BBzhuzi_002_3
+    400036: xke_dm_BBzhuzi_002_4
+    400038: xke_jz_damen_003
+    400040: xke_dm_BBzhuzi_006
+    400042: xke_wj_tiedengi_001
+    2300000: xke_dm_BBzhuzi_001
+    2300002: xke_dm_BBzhuzi_002
+    2300004: xke_dm_BBzhuzi_003
+    2300006: xke_dm_BBzhuzi_004
+    2300008: xke_dm_BBzhuzi_004_1
+    2300010: xke_dm_BBzhuzi_004_2
+    2300012: xke_dm_BBzhuzi_004_3
+    2300014: xke_dm_BBzhuzi_004_4
+    2300016: xke_dm_BBzhuzi_004_5
+    2300018: xke_dm_BBzhuzi_005
+    2300020: xke_jz_chuan_001
+    2300022: xke_jz_chuan_002
+    2300024: xke_jz_damen_001
+    2300026: xke_jz_damen_002
+    2300028: xke_dm_BBzhuzi_002_1
+    2300030: xke_dm_BBzhuzi_002_2
+    2300032: xke_dm_BBzhuzi_002_3
+    2300034: xke_dm_BBzhuzi_002_4
+    2300036: xke_jz_damen_003
+    2300038: xke_dm_BBzhuzi_006
+    2300040: xke_wj_tiedengi_001
+    3300000: xke_dm_BBzhuzi_001
+    3300002: xke_dm_BBzhuzi_002
+    3300004: xke_dm_BBzhuzi_003
+    3300006: xke_dm_BBzhuzi_004
+    3300008: xke_dm_BBzhuzi_004_1
+    3300010: xke_dm_BBzhuzi_004_2
+    3300012: xke_dm_BBzhuzi_004_3
+    3300014: xke_dm_BBzhuzi_004_4
+    3300016: xke_dm_BBzhuzi_004_5
+    3300018: xke_dm_BBzhuzi_005
+    3300020: xke_jz_chuan_001
+    3300022: xke_jz_chuan_002
+    3300024: xke_jz_damen_001
+    3300026: xke_jz_damen_002
+    3300028: xke_dm_BBzhuzi_002_1
+    3300030: xke_dm_BBzhuzi_002_2
+    3300032: xke_dm_BBzhuzi_002_3
+    3300034: xke_dm_BBzhuzi_002_4
+    3300036: xke_jz_damen_003
+    3300038: xke_dm_BBzhuzi_006
+    3300040: xke_wj_tiedengi_001
+    4300000: xke_dm_BBzhuzi_001
+    4300002: xke_jz_chuan_001
+    4300004: xke_dm_BBzhuzi_002
+    4300006: xke_dm_BBzhuzi_003
+    4300008: xke_dm_BBzhuzi_004_2
+    4300010: xke_dm_BBzhuzi_004
+    4300012: xke_dm_BBzhuzi_004_1
+    4300014: xke_dm_BBzhuzi_005
+    4300016: xke_dm_BBzhuzi_004_3
+    4300018: xke_dm_BBzhuzi_004_4
+    4300020: xke_dm_BBzhuzi_004_5
+    4300022: xke_jz_damen_002
+    4300024: xke_jz_damen_001
+    4300026: xke_jz_chuan_002
+    4300028: xke_dm_BBzhuzi_002_2
+    4300030: xke_dm_BBzhuzi_002_3
+    4300032: xke_dm_BBzhuzi_002_4
+    4300034: xke_dm_BBzhuzi_002_1
+    4300036: xke_jz_damen_003
+    4300038: xke_wj_tiedengi_001
+    4300040: xke_dm_BBzhuzi_006
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

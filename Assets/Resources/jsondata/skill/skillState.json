@@ -1,0 +1,11 @@
+{
+    "":{
+        "state_id ":"401002000",
+        "state_name":"击飞",
+        "description":"将目标击飞到空中",
+        "types":"1",
+        "same_type":"2",
+        "replace":"1",
+        "":"NULL1"
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "1": {
+        "player_lv": 1,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "2": {
+        "player_lv": 2,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "3": {
+        "player_lv": 3,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "4": {
+        "player_lv": 4,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "5": {
+        "player_lv": 5,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "6": {
+        "player_lv": 6,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "7": {
+        "player_lv": 7,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "8": {
+        "player_lv": 8,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "9": {
+        "player_lv": 9,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "10": {
+        "player_lv": 10,
+        "hero_lv": 1,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 1
+    },
+    "11": {
+        "player_lv": 11,
+        "hero_lv": 8,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 8
+    },
+    "12": {
+        "player_lv": 12,
+        "hero_lv": 9,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 9
+    },
+    "13": {
+        "player_lv": 13,
+        "hero_lv": 11,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 11
+    },
+    "14": {
+        "player_lv": 14,
+        "hero_lv": 14,
+        "hero_star": 1,
+        "hero_grade": 1,
+        "equipment_grade": 1,
+        "equipment_lv": 14
+    },
+    "15": {
+        "player_lv": 15,
+        "hero_lv": 15,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 15
+    },
+    "16": {
+        "player_lv": 16,
+        "hero_lv": 16,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 16
+    },
+    "17": {
+        "player_lv": 17,
+        "hero_lv": 17,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 17
+    },
+    "18": {
+        "player_lv": 18,
+        "hero_lv": 18,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 18
+    },
+    "19": {
+        "player_lv": 19,
+        "hero_lv": 19,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 19
+    },
+    "20": {
+        "player_lv": 20,
+        "hero_lv": 20,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 20
+    },
+    "21": {
+        "player_lv": 21,
+        "hero_lv": 21,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 21
+    },
+    "22": {
+        "player_lv": 22,
+        "hero_lv": 22,
+        "hero_star": 2,
+        "hero_grade": 2,
+        "equipment_grade": 2,
+        "equipment_lv": 22
+    },
+    "23": {
+        "player_lv": 23,
+        "hero_lv": 23,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 23
+    },
+    "24": {
+        "player_lv": 24,
+        "hero_lv": 24,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 24
+    },
+    "25": {
+        "player_lv": 25,
+        "hero_lv": 25,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 25
+    },
+    "26": {
+        "player_lv": 26,
+        "hero_lv": 26,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 26
+    },
+    "27": {
+        "player_lv": 27,
+        "hero_lv": 27,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 27
+    },
+    "28": {
+        "player_lv": 28,
+        "hero_lv": 28,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 28
+    },
+    "29": {
+        "player_lv": 29,
+        "hero_lv": 29,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 29
+    },
+    "30": {
+        "player_lv": 30,
+        "hero_lv": 30,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 30
+    },
+    "31": {
+        "player_lv": 31,
+        "hero_lv": 31,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 31
+    },
+    "32": {
+        "player_lv": 32,
+        "hero_lv": 32,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 32
+    },
+    "33": {
+        "player_lv": 33,
+        "hero_lv": 33,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 33
+    },
+    "34": {
+        "player_lv": 34,
+        "hero_lv": 34,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 34
+    },
+    "35": {
+        "player_lv": 35,
+        "hero_lv": 35,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 35
+    },
+    "36": {
+        "player_lv": 36,
+        "hero_lv": 36,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 36
+    },
+    "37": {
+        "player_lv": 37,
+        "hero_lv": 37,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 37
+    },
+    "38": {
+        "player_lv": 38,
+        "hero_lv": 38,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 38
+    },
+    "39": {
+        "player_lv": 39,
+        "hero_lv": 39,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 39
+    },
+    "40": {
+        "player_lv": 40,
+        "hero_lv": 40,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 40
+    },
+    "41": {
+        "player_lv": 41,
+        "hero_lv": 41,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 41
+    },
+    "42": {
+        "player_lv": 42,
+        "hero_lv": 42,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 42
+    },
+    "43": {
+        "player_lv": 43,
+        "hero_lv": 43,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 43
+    },
+    "44": {
+        "player_lv": 44,
+        "hero_lv": 44,
+        "hero_star": 3,
+        "hero_grade": 3,
+        "equipment_grade": 4,
+        "equipment_lv": 44
+    },
+    "45": {
+        "player_lv": 45,
+        "hero_lv": 45,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 45
+    },
+    "46": {
+        "player_lv": 46,
+        "hero_lv": 46,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 46
+    },
+    "47": {
+        "player_lv": 47,
+        "hero_lv": 47,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 47
+    },
+    "48": {
+        "player_lv": 48,
+        "hero_lv": 48,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 48
+    },
+    "49": {
+        "player_lv": 49,
+        "hero_lv": 49,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 49
+    },
+    "50": {
+        "player_lv": 50,
+        "hero_lv": 50,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 50
+    },
+    "51": {
+        "player_lv": 51,
+        "hero_lv": 51,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 51
+    },
+    "52": {
+        "player_lv": 52,
+        "hero_lv": 52,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 52
+    },
+    "53": {
+        "player_lv": 53,
+        "hero_lv": 53,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 53
+    },
+    "54": {
+        "player_lv": 54,
+        "hero_lv": 54,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 54
+    },
+    "55": {
+        "player_lv": 55,
+        "hero_lv": 55,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 55
+    },
+    "56": {
+        "player_lv": 56,
+        "hero_lv": 56,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 56
+    },
+    "57": {
+        "player_lv": 57,
+        "hero_lv": 57,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 57
+    },
+    "58": {
+        "player_lv": 58,
+        "hero_lv": 58,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 58
+    },
+    "59": {
+        "player_lv": 59,
+        "hero_lv": 59,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 59
+    },
+    "60": {
+        "player_lv": 60,
+        "hero_lv": 60,
+        "hero_star": 4,
+        "hero_grade": 4,
+        "equipment_grade": 7,
+        "equipment_lv": 60
+    }
+}

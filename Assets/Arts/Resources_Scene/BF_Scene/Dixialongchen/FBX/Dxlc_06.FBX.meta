@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: e951ae7b982ff194eb0d614f01e408f4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hjzc_Terrain_001
+    100004: hjzc_Terrain_002
+    100006: hjzc_Terrain_003
+    100008: hjzc_Terrain_005
+    100010: hjzc_Terrain_006
+    100012: hjzc_Terrain_007
+    100014: hjzc_Terrain_004
+    100016: Object001
+    100018: Object002
+    100020: Object003
+    100022: Object004
+    100024: Object006
+    100026: hjzc_Terrain_dizi001
+    100028: hjzc_Terrain_dizi002
+    100030: Object007
+    100032: Object009
+    100034: Object013
+    100036: Object014
+    100038: Object015
+    100040: Object016
+    100042: hjzc_Terrain_qiangti001
+    100044: hjzc_Terrain_qiangti002
+    100046: hjzc_Terrain_zhuan001
+    100048: hjzc_Terrain_zhuan002
+    100050: hjzc_Terrain_zhuan003
+    100052: hjzc_Terrain_zhuan004
+    100054: hjzc_Terrain_008
+    100056: hjzc_Terrain_006 1
+    100058: hjzc_Terrain_007 1
+    100060: xke_dm_BBpozhuan_04
+    100062: hjzc_Terrain_009
+    100064: hjzc_Terrain_009 1
+    100066: hjzc_Terrain_010
+    100068: hjzc_Terrain_011
+    100070: hjzc_Terrain_bosstai001
+    100072: hjzc_Terrain_bosstai002
+    100074: hjzc_Terrain_bosstai003
+    100076: hjzc_Terrain_bosstai004
+    400000: //RootNode
+    400002: hjzc_Terrain_001
+    400004: hjzc_Terrain_002
+    400006: hjzc_Terrain_003
+    400008: hjzc_Terrain_005
+    400010: hjzc_Terrain_006
+    400012: hjzc_Terrain_007
+    400014: hjzc_Terrain_004
+    400016: Object001
+    400018: Object002
+    400020: Object003
+    400022: Object004
+    400024: Object006
+    400026: hjzc_Terrain_dizi001
+    400028: hjzc_Terrain_dizi002
+    400030: Object007
+    400032: Object009
+    400034: Object013
+    400036: Object014
+    400038: Object015
+    400040: Object016
+    400042: hjzc_Terrain_qiangti001
+    400044: hjzc_Terrain_qiangti002
+    400046: hjzc_Terrain_zhuan001
+    400048: hjzc_Terrain_zhuan002
+    400050: hjzc_Terrain_zhuan003
+    400052: hjzc_Terrain_zhuan004
+    400054: hjzc_Terrain_008
+    400056: hjzc_Terrain_006 1
+    400058: hjzc_Terrain_007 1
+    400060: xke_dm_BBpozhuan_04
+    400062: hjzc_Terrain_009
+    400064: hjzc_Terrain_009 1
+    400066: hjzc_Terrain_010
+    400068: hjzc_Terrain_011
+    400070: hjzc_Terrain_bosstai001
+    400072: hjzc_Terrain_bosstai002
+    400074: hjzc_Terrain_bosstai003
+    400076: hjzc_Terrain_bosstai004
+    2300000: //RootNode
+    2300002: hjzc_Terrain_001
+    2300004: hjzc_Terrain_002
+    2300006: hjzc_Terrain_003
+    2300008: hjzc_Terrain_005
+    2300010: hjzc_Terrain_006
+    2300012: hjzc_Terrain_007
+    2300014: hjzc_Terrain_004
+    2300016: Object001
+    2300018: Object002
+    2300020: Object003
+    2300022: Object004
+    2300024: Object006
+    2300026: hjzc_Terrain_dizi001
+    2300028: hjzc_Terrain_dizi002
+    2300030: Object007
+    2300032: Object009
+    2300034: Object013
+    2300036: Object014
+    2300038: Object015
+    2300040: Object016
+    2300042: hjzc_Terrain_qiangti001
+    2300044: hjzc_Terrain_qiangti002
+    2300046: hjzc_Terrain_zhuan001
+    2300048: hjzc_Terrain_zhuan002
+    2300050: hjzc_Terrain_zhuan003
+    2300052: hjzc_Terrain_zhuan004
+    2300054: hjzc_Terrain_008
+    2300056: hjzc_Terrain_006 1
+    2300058: hjzc_Terrain_007 1
+    2300060: hjzc_Terrain_009
+    2300062: hjzc_Terrain_009 1
+    2300064: hjzc_Terrain_010
+    2300066: hjzc_Terrain_011
+    2300068: hjzc_Terrain_bosstai001
+    2300070: hjzc_Terrain_bosstai002
+    2300072: hjzc_Terrain_bosstai003
+    2300074: hjzc_Terrain_bosstai004
+    3300000: //RootNode
+    3300002: hjzc_Terrain_001
+    3300004: hjzc_Terrain_002
+    3300006: hjzc_Terrain_003
+    3300008: hjzc_Terrain_005
+    3300010: hjzc_Terrain_006
+    3300012: hjzc_Terrain_007
+    3300014: hjzc_Terrain_004
+    3300016: Object001
+    3300018: Object002
+    3300020: Object003
+    3300022: Object004
+    3300024: Object006
+    3300026: hjzc_Terrain_dizi001
+    3300028: hjzc_Terrain_dizi002
+    3300030: Object007
+    3300032: Object009
+    3300034: Object013
+    3300036: Object014
+    3300038: Object015
+    3300040: Object016
+    3300042: hjzc_Terrain_qiangti001
+    3300044: hjzc_Terrain_qiangti002
+    3300046: hjzc_Terrain_zhuan001
+    3300048: hjzc_Terrain_zhuan002
+    3300050: hjzc_Terrain_zhuan003
+    3300052: hjzc_Terrain_zhuan004
+    3300054: hjzc_Terrain_008
+    3300056: hjzc_Terrain_006 1
+    3300058: hjzc_Terrain_007 1
+    3300060: hjzc_Terrain_009
+    3300062: hjzc_Terrain_009 1
+    3300064: hjzc_Terrain_010
+    3300066: hjzc_Terrain_011
+    3300068: hjzc_Terrain_bosstai001
+    3300070: hjzc_Terrain_bosstai002
+    3300072: hjzc_Terrain_bosstai003
+    3300074: hjzc_Terrain_bosstai004
+    4300000: hjzc_Terrain_001
+    4300002: hjzc_Terrain_002
+    4300004: hjzc_Terrain_003
+    4300006: hjzc_Terrain_007
+    4300008: hjzc_Terrain_005
+    4300010: hjzc_Terrain_006
+    4300012: hjzc_Terrain_004
+    4300014: Object001
+    4300016: Object002
+    4300018: Object003
+    4300020: Object004
+    4300022: Object006
+    4300024: hjzc_Terrain_dizi001
+    4300026: hjzc_Terrain_dizi002
+    4300028: Object007
+    4300030: Object009
+    4300032: Object013
+    4300034: Object014
+    4300036: Object015
+    4300038: Object016
+    4300040: hjzc_Terrain_zhuan001
+    4300042: hjzc_Terrain_zhuan004
+    4300044: hjzc_Terrain_zhuan003
+    4300046: hjzc_Terrain_zhuan002
+    4300048: hjzc_Terrain_qiangti001
+    4300050: hjzc_Terrain_qiangti002
+    4300052: hjzc_Terrain_008
+    4300054: hjzc_Terrain_006
+    4300056: hjzc_Terrain_007
+    4300058: hjzc_Terrain_009
+    4300060: hjzc_Terrain_010
+    4300062: hjzc_Terrain_009
+    4300064: hjzc_Terrain_011
+    4300066: hjzc_Terrain_bosstai001
+    4300068: hjzc_Terrain_bosstai002
+    4300070: hjzc_Terrain_bosstai003
+    4300072: hjzc_Terrain_bosstai004
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

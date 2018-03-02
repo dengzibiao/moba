@@ -1,0 +1,38 @@
+{
+  "20000":{
+    "key":20000,
+    "sn":1,
+    "MapName":"UI_MajorCity01",
+    "Xmin":0,
+    "Xmax":68,
+    "Xlength":68,
+    "Zmin":0,
+    "Zmax":68,
+    "Zlength":68,
+    "map_info":20000
+  },
+  "20100": {
+    "key": 20100,
+    "sn": 2,
+    "MapName": "LGhuangyuan",
+    "Xmin": 0,
+    "Xmax": 80,
+    "Xlength": 58.46,
+    "Zmin": 0,
+    "Zmax":80,
+    "Zlength": 55.77,
+    "map_info": 20100
+  },
+  "20200": {
+    "key": 20200,
+    "sn": 3,
+    "MapName": "PVP_1V1",
+    "Xmin": 0,
+    "Xmax": 42,
+    "Xlength": 42,
+    "Zmin": 0,
+    "Zmax": 6,
+    "Zlength": 6,
+    "map_info": 20200
+  }
+}

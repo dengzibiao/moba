@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: b3319690bda1c5d4e867c9bc9967bdd3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: jjc_001c
+    100002: jjc_001c 1
+    100004: jjc_001c 10
+    100006: jjc_001c 2
+    100008: jjc_001c 3
+    100010: jjc_001c 4
+    100012: jjc_001c 5
+    100014: jjc_001c 6
+    100016: jjc_001c 7
+    100018: jjc_001c 8
+    100020: jjc_001c 9
+    100022: Object01
+    100024: Object02
+    100026: Object08
+    100028: Object08 1
+    100030: Object09
+    100032: Object09 1
+    100034: Object11
+    100036: Object11 1
+    100038: Object12
+    100040: Object13
+    100042: Object13 1
+    100044: //RootNode
+    400000: jjc_001c
+    400002: jjc_001c 1
+    400004: jjc_001c 10
+    400006: jjc_001c 2
+    400008: jjc_001c 3
+    400010: jjc_001c 4
+    400012: jjc_001c 5
+    400014: jjc_001c 6
+    400016: jjc_001c 7
+    400018: jjc_001c 8
+    400020: jjc_001c 9
+    400022: Object01
+    400024: Object02
+    400026: Object08
+    400028: Object08 1
+    400030: Object09
+    400032: Object09 1
+    400034: Object11
+    400036: Object11 1
+    400038: Object12
+    400040: Object13
+    400042: Object13 1
+    400044: //RootNode
+    2300000: jjc_001c
+    2300002: jjc_001c 1
+    2300004: jjc_001c 10
+    2300006: jjc_001c 2
+    2300008: jjc_001c 3
+    2300010: jjc_001c 4
+    2300012: jjc_001c 5
+    2300014: jjc_001c 6
+    2300016: jjc_001c 7
+    2300018: jjc_001c 8
+    2300020: jjc_001c 9
+    2300022: Object01
+    2300024: Object02
+    2300026: Object08
+    2300028: Object08 1
+    2300030: Object09
+    2300032: Object09 1
+    2300034: Object11
+    2300036: Object11 1
+    2300038: Object12
+    2300040: Object13
+    2300042: Object13 1
+    3300000: jjc_001c
+    3300002: jjc_001c 1
+    3300004: jjc_001c 10
+    3300006: jjc_001c 2
+    3300008: jjc_001c 3
+    3300010: jjc_001c 4
+    3300012: jjc_001c 5
+    3300014: jjc_001c 6
+    3300016: jjc_001c 7
+    3300018: jjc_001c 8
+    3300020: jjc_001c 9
+    3300022: Object01
+    3300024: Object02
+    3300026: Object08
+    3300028: Object08 1
+    3300030: Object09
+    3300032: Object09 1
+    3300034: Object11
+    3300036: Object11 1
+    3300038: Object12
+    3300040: Object13
+    3300042: Object13 1
+    4300000: Object12
+    4300002: Object02
+    4300004: Object01
+    4300006: Object13
+    4300008: Object11
+    4300010: Object13
+    4300012: Object11
+    4300014: Object09
+    4300016: Object08
+    4300018: Object09
+    4300020: Object08
+    4300022: jjc_001c
+    4300024: jjc_001c
+    4300026: jjc_001c
+    4300028: jjc_001c
+    4300030: jjc_001c
+    4300032: jjc_001c
+    4300034: jjc_001c
+    4300036: jjc_001c
+    4300038: jjc_001c
+    4300040: jjc_001c
+    4300042: jjc_001c
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

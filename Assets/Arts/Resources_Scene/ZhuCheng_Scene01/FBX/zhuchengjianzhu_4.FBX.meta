@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 1b4c3bbd2191ccc408b073fc65a1cb90
+timeCreated: 1476864966
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: zhucheng_cd
+    100002: zhucheng_d1
+    100004: zhucheng_dimian010
+    100006: zhucheng_dimian015
+    100008: zhucheng_dimian04
+    100010: zhucheng_dimian07
+    100012: zhucheng_dimian08
+    100014: zhucheng_dimian09
+    100016: zhucheng_dm1
+    100018: zhucheng_dmian
+    100020: zhucheng_gcdm01
+    100022: zhucheng_gcdm02
+    100024: zhucheng_guangchang
+    100026: zhucheng_qiangti010
+    100028: zhucheng_qiangti014
+    100030: zhucheng_qiangti015
+    100032: zhucheng_qiangti019
+    100034: zhucheng_qiangti04
+    100036: zhucheng_qiangti05
+    100038: zhucheng_qiangti06
+    100040: zhucheng_qiangti07
+    100042: zhucheng_qiangti08
+    100044: zhucheng_qiangti09
+    100046: //RootNode
+    100048: Object17
+    100050: zhucheng_gcdm01ffffff
+    100052: zhucheng_gcdm02fffff
+    100054: zhucheng_di
+    400000: zhucheng_cd
+    400002: zhucheng_d1
+    400004: zhucheng_dimian010
+    400006: zhucheng_dimian015
+    400008: zhucheng_dimian04
+    400010: zhucheng_dimian07
+    400012: zhucheng_dimian08
+    400014: zhucheng_dimian09
+    400016: zhucheng_dm1
+    400018: zhucheng_dmian
+    400020: zhucheng_gcdm01
+    400022: zhucheng_gcdm02
+    400024: zhucheng_guangchang
+    400026: zhucheng_qiangti010
+    400028: zhucheng_qiangti014
+    400030: zhucheng_qiangti015
+    400032: zhucheng_qiangti019
+    400034: zhucheng_qiangti04
+    400036: zhucheng_qiangti05
+    400038: zhucheng_qiangti06
+    400040: zhucheng_qiangti07
+    400042: zhucheng_qiangti08
+    400044: zhucheng_qiangti09
+    400046: //RootNode
+    400048: Object17
+    400050: zhucheng_gcdm01ffffff
+    400052: zhucheng_gcdm02fffff
+    400054: zhucheng_di
+    2300000: zhucheng_cd
+    2300002: zhucheng_d1
+    2300004: zhucheng_dimian010
+    2300006: zhucheng_dimian015
+    2300008: zhucheng_dimian04
+    2300010: zhucheng_dimian07
+    2300012: zhucheng_dimian08
+    2300014: zhucheng_dimian09
+    2300016: zhucheng_dm1
+    2300018: zhucheng_dmian
+    2300020: zhucheng_gcdm01
+    2300022: zhucheng_gcdm02
+    2300024: zhucheng_guangchang
+    2300026: zhucheng_qiangti010
+    2300028: zhucheng_qiangti014
+    2300030: zhucheng_qiangti015
+    2300032: zhucheng_qiangti019
+    2300034: zhucheng_qiangti04
+    2300036: zhucheng_qiangti05
+    2300038: zhucheng_qiangti06
+    2300040: zhucheng_qiangti07
+    2300042: zhucheng_qiangti08
+    2300044: zhucheng_qiangti09
+    2300046: zhucheng_gcdm01ffffff
+    2300048: zhucheng_gcdm02fffff
+    2300050: zhucheng_di
+    3300000: zhucheng_cd
+    3300002: zhucheng_d1
+    3300004: zhucheng_dimian010
+    3300006: zhucheng_dimian015
+    3300008: zhucheng_dimian04
+    3300010: zhucheng_dimian07
+    3300012: zhucheng_dimian08
+    3300014: zhucheng_dimian09
+    3300016: zhucheng_dm1
+    3300018: zhucheng_dmian
+    3300020: zhucheng_gcdm01
+    3300022: zhucheng_gcdm02
+    3300024: zhucheng_guangchang
+    3300026: zhucheng_qiangti010
+    3300028: zhucheng_qiangti014
+    3300030: zhucheng_qiangti015
+    3300032: zhucheng_qiangti019
+    3300034: zhucheng_qiangti04
+    3300036: zhucheng_qiangti05
+    3300038: zhucheng_qiangti06
+    3300040: zhucheng_qiangti07
+    3300042: zhucheng_qiangti08
+    3300044: zhucheng_qiangti09
+    3300046: zhucheng_gcdm01ffffff
+    3300048: zhucheng_gcdm02fffff
+    3300050: zhucheng_di
+    4300000: zhucheng_qiangti010
+    4300002: zhucheng_cd
+    4300004: zhucheng_dimian010
+    4300006: zhucheng_qiangti09
+    4300008: zhucheng_qiangti07
+    4300010: zhucheng_qiangti08
+    4300012: zhucheng_qiangti014
+    4300014: zhucheng_qiangti015
+    4300016: zhucheng_guangchang
+    4300018: zhucheng_gcdm02
+    4300020: zhucheng_gcdm01
+    4300022: zhucheng_qiangti06
+    4300024: zhucheng_qiangti04
+    4300026: zhucheng_dimian04
+    4300028: zhucheng_d1
+    4300030: zhucheng_dimian07
+    4300032: zhucheng_dimian08
+    4300034: zhucheng_dimian09
+    4300036: zhucheng_dimian015
+    4300038: zhucheng_dmian
+    4300040: zhucheng_qiangti05
+    4300042: zhucheng_qiangti019
+    4300044: zhucheng_dm1
+    4300046: zhucheng_gcdm02fffff
+    4300048: zhucheng_gcdm01ffffff
+    4300050: zhucheng_di
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

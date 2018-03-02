@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 0a242eb826016fd4e818e54cf57c748c
+timeCreated: 1480650027
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 L Clavicle
+    100006: Bip001 L Finger0
+    100008: Bip001 L Finger01
+    100010: Bip001 L Finger1
+    100012: Bip001 L Finger11
+    100014: Bip001 L Finger2
+    100016: Bip001 L Finger21
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L UpperArm
+    100024: Bip001 Neck
+    100026: Bip001 Pelvis
+    100028: Bip001 Prop1
+    100030: Bip001 R Clavicle
+    100032: Bip001 R Finger0
+    100034: Bip001 R Finger01
+    100036: Bip001 R Finger1
+    100038: Bip001 R Finger11
+    100040: Bip001 R Finger2
+    100042: Bip001 R Finger21
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Bip001 Spine1
+    100054: Bone001
+    100056: Bone001(mirrored)
+    100058: Bone002
+    100060: Bone002(mirrored)
+    100062: Bone004
+    100064: Bone006
+    100066: Bone007
+    100068: Bone009
+    100070: Bone010
+    100072: Bone012
+    100074: Bone013
+    100076: Bone014
+    100078: Bone015
+    100080: Bone016
+    100082: Bone018
+    100084: Bone019
+    100086: Bone020
+    100088: Bone021
+    100090: Bone022
+    100092: Bone023
+    100094: Bone024
+    100096: Bone025
+    100098: Bone026
+    100100: Bone027
+    100102: Bone028
+    100104: Bone029
+    100106: Bone030
+    100108: Bone032
+    100110: Bone033
+    100112: Bone035
+    100114: Bone036
+    100116: Bone037
+    100118: Bone039
+    100120: Bone040
+    100122: Bone041
+    100124: Root
+    100126: Rt01
+    100128: Shijianshizhe_01
+    100130: //RootNode
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 L Clavicle
+    400006: Bip001 L Finger0
+    400008: Bip001 L Finger01
+    400010: Bip001 L Finger1
+    400012: Bip001 L Finger11
+    400014: Bip001 L Finger2
+    400016: Bip001 L Finger21
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L UpperArm
+    400024: Bip001 Neck
+    400026: Bip001 Pelvis
+    400028: Bip001 Prop1
+    400030: Bip001 R Clavicle
+    400032: Bip001 R Finger0
+    400034: Bip001 R Finger01
+    400036: Bip001 R Finger1
+    400038: Bip001 R Finger11
+    400040: Bip001 R Finger2
+    400042: Bip001 R Finger21
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Bip001 Spine1
+    400054: Bone001
+    400056: Bone001(mirrored)
+    400058: Bone002
+    400060: Bone002(mirrored)
+    400062: Bone004
+    400064: Bone006
+    400066: Bone007
+    400068: Bone009
+    400070: Bone010
+    400072: Bone012
+    400074: Bone013
+    400076: Bone014
+    400078: Bone015
+    400080: Bone016
+    400082: Bone018
+    400084: Bone019
+    400086: Bone020
+    400088: Bone021
+    400090: Bone022
+    400092: Bone023
+    400094: Bone024
+    400096: Bone025
+    400098: Bone026
+    400100: Bone027
+    400102: Bone028
+    400104: Bone029
+    400106: Bone030
+    400108: Bone032
+    400110: Bone033
+    400112: Bone035
+    400114: Bone036
+    400116: Bone037
+    400118: Bone039
+    400120: Bone040
+    400122: Bone041
+    400124: Root
+    400126: Rt01
+    400128: Shijianshizhe_01
+    400130: //RootNode
+    4300000: Shijianshizhe_01
+    9500000: //RootNode
+    13700000: Shijianshizhe_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Root/Bip001
+    - Root/Bip001/Bip001 Prop1
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

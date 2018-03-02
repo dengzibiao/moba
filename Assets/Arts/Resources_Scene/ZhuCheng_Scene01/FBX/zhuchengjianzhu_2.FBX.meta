@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: c4b85ffda44069840aef4e859d0205fc
+timeCreated: 1476864967
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: zhucheng_dimian3
+    100002: zhucheng_xmjz2
+    100004: //RootNode
+    100006: Object01
+    100008: zhucheng_caoti02
+    100010: zhucheng_dimian011
+    100012: zhucheng_dimian1
+    100014: zhucheng_dimian2
+    100016: zhucheng_qiangti011
+    100018: zhucheng_shuixiataijie
+    100020: zhucheng_tajjie03
+    100022: zhucheng_tj
+    100024: zhucheng_xmjz
+    100026: zhucheng_xmq1
+    100028: zhucheng_xmtj
+    400000: zhucheng_dimian3
+    400002: zhucheng_xmjz2
+    400004: //RootNode
+    400006: Object01
+    400008: zhucheng_caoti02
+    400010: zhucheng_dimian011
+    400012: zhucheng_dimian1
+    400014: zhucheng_dimian2
+    400016: zhucheng_qiangti011
+    400018: zhucheng_shuixiataijie
+    400020: zhucheng_tajjie03
+    400022: zhucheng_tj
+    400024: zhucheng_xmjz
+    400026: zhucheng_xmq1
+    400028: zhucheng_xmtj
+    2300000: zhucheng_dimian3
+    2300002: zhucheng_xmjz2
+    2300004: Object01
+    2300006: zhucheng_caoti02
+    2300008: zhucheng_dimian011
+    2300010: zhucheng_dimian1
+    2300012: zhucheng_dimian2
+    2300014: zhucheng_qiangti011
+    2300016: zhucheng_shuixiataijie
+    2300018: zhucheng_tajjie03
+    2300020: zhucheng_tj
+    2300022: zhucheng_xmjz
+    2300024: zhucheng_xmq1
+    2300026: zhucheng_xmtj
+    3300000: zhucheng_dimian3
+    3300002: zhucheng_xmjz2
+    3300004: Object01
+    3300006: zhucheng_caoti02
+    3300008: zhucheng_dimian011
+    3300010: zhucheng_dimian1
+    3300012: zhucheng_dimian2
+    3300014: zhucheng_qiangti011
+    3300016: zhucheng_shuixiataijie
+    3300018: zhucheng_tajjie03
+    3300020: zhucheng_tj
+    3300022: zhucheng_xmjz
+    3300024: zhucheng_xmq1
+    3300026: zhucheng_xmtj
+    4300000: zhucheng_dimian3
+    4300002: zhucheng_xmjz2
+    4300004: zhucheng_caoti02
+    4300006: zhucheng_dimian2
+    4300008: zhucheng_dimian1
+    4300010: zhucheng_tajjie03
+    4300012: zhucheng_shuixiataijie
+    4300014: zhucheng_tj
+    4300016: zhucheng_dimian011
+    4300018: zhucheng_qiangti011
+    4300020: zhucheng_xmjz
+    4300022: zhucheng_xmtj
+    4300024: zhucheng_xmq1
+    4300026: Object01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

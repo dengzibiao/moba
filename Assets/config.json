@@ -1,0 +1,18 @@
+{
+    "serverListUrl":"http://192.168.3.251/mp/ac/serverList.php",
+    "autoRegUrl":"http://192.168.3.251/mp/ac/autoReg.php?mobile={0}&passwd={1}",
+    "chat_server": { 
+        "host":"192.168.3.251",
+        "port":6379,
+        "enabled":1
+    },
+
+    "host":"192.168.3.101",
+    "port":6379,
+
+    "c1_host":"192.168.3.101",
+    "c1_port":6379,
+
+    "c2_host":"192.168.3.101",
+    "c2_port":1235
+}

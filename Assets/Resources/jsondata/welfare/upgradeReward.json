@@ -1,0 +1,92 @@
+{
+    "1": {
+        "id": 1,
+        "need_lv": 5,
+        "next_lv": 10,
+        "diamond": 25,
+        "gold": 10000,
+        "power": 0,
+        "item": [[110000100,20]]
+    },
+    "2": {
+        "id": 2,
+        "need_lv": 10,
+        "next_lv": 15,
+        "diamond": 50,
+        "gold": 18000,
+        "power": 0,
+        "item": [[106000600,30]]
+    },
+    "3": {
+        "id": 3,
+        "need_lv": 15,
+        "next_lv": 20,
+        "diamond": 75,
+        "gold": 30000,
+        "power": 0,
+        "item": [[110000100,30]]
+    },
+    "4": {
+        "id": 4,
+        "need_lv": 20,
+        "next_lv": 25,
+        "diamond": 100,
+        "gold": 48000,
+        "power": 0,
+        "item": [[110000100,35]]
+    },
+    "5": {
+        "id": 5,
+        "need_lv": 25,
+        "next_lv": 30,
+        "diamond": 125,
+        "gold": 70000,
+        "power": 0,
+        "item": [[110000100,40]]
+    },
+    "6": {
+        "id": 6,
+        "need_lv": 30,
+        "next_lv": 35,
+        "diamond": 150,
+        "gold": 10000,
+        "power": 0,
+        "item": [[110000100,45]]
+    },
+    "7": {
+        "id": 7,
+        "need_lv": 35,
+        "next_lv": 40,
+        "diamond": 175,
+        "gold": 130000,
+        "power": 0,
+        "item": [[110000100,50]]
+    },
+    "8": {
+        "id": 8,
+        "need_lv": 40,
+        "next_lv": 45,
+        "diamond": 200,
+        "gold": 160000,
+        "power": 0,
+        "item": [[110000100,50]]
+    },
+    "9": {
+        "id": 9,
+        "need_lv": 45,
+        "next_lv": 50,
+        "diamond": 225,
+        "gold": 210000,
+        "power": 0,
+        "item": [[110000100,50]]
+    },
+    "10": {
+        "id": 10,
+        "need_lv": 50,
+        "next_lv": 55,
+        "diamond": 250,
+        "gold": 250000,
+        "power": 0,
+        "item": [[106003000,80]]
+    }
+}

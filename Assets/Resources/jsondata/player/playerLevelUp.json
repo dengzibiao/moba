@@ -1,0 +1,802 @@
+{
+    "1": {
+        "id": 1,
+        "exp": 20,
+        "hero_lv_limit": 1,
+        "power_reward": 10,
+        "max_power": 60,
+        "max_friend": 30,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "2": {
+        "id": 2,
+        "exp": 25,
+        "hero_lv_limit": 2,
+        "power_reward": 11,
+        "max_power": 62,
+        "max_friend": 31,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "3": {
+        "id": 3,
+        "exp": 30,
+        "hero_lv_limit": 3,
+        "power_reward": 11,
+        "max_power": 63,
+        "max_friend": 32,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "4": {
+        "id": 4,
+        "exp": 30,
+        "hero_lv_limit": 4,
+        "power_reward": 12,
+        "max_power": 64,
+        "max_friend": 33,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "5": {
+        "id": 5,
+        "exp": 40,
+        "hero_lv_limit": 5,
+        "power_reward": 12,
+        "max_power": 65,
+        "max_friend": 34,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "6": {
+        "id": 6,
+        "exp": 40,
+        "hero_lv_limit": 6,
+        "power_reward": 13,
+        "max_power": 66,
+        "max_friend": 35,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "7": {
+        "id": 7,
+        "exp": 40,
+        "hero_lv_limit": 7,
+        "power_reward": 13,
+        "max_power": 67,
+        "max_friend": 36,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "8": {
+        "id": 8,
+        "exp": 40,
+        "hero_lv_limit": 8,
+        "power_reward": 14,
+        "max_power": 68,
+        "max_friend": 37,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "9": {
+        "id": 9,
+        "exp": 80,
+        "hero_lv_limit": 9,
+        "power_reward": 14,
+        "max_power": 69,
+        "max_friend": 38,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "10": {
+        "id": 10,
+        "exp": 170,
+        "hero_lv_limit": 10,
+        "power_reward": 15,
+        "max_power": 70,
+        "max_friend": 39,
+        "max_vitality": 10,
+        "resurrection_cd": 0
+    },
+    "11": {
+        "id": 11,
+        "exp": 180,
+        "hero_lv_limit": 11,
+        "power_reward": 15,
+        "max_power": 71,
+        "max_friend": 40,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "12": {
+        "id": 12,
+        "exp": 180,
+        "hero_lv_limit": 12,
+        "power_reward": 16,
+        "max_power": 72,
+        "max_friend": 41,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "13": {
+        "id": 13,
+        "exp": 180,
+        "hero_lv_limit": 13,
+        "power_reward": 16,
+        "max_power": 73,
+        "max_friend": 42,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "14": {
+        "id": 14,
+        "exp": 180,
+        "hero_lv_limit": 14,
+        "power_reward": 17,
+        "max_power": 74,
+        "max_friend": 43,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "15": {
+        "id": 15,
+        "exp": 180,
+        "hero_lv_limit": 15,
+        "power_reward": 17,
+        "max_power": 75,
+        "max_friend": 44,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "16": {
+        "id": 16,
+        "exp": 190,
+        "hero_lv_limit": 16,
+        "power_reward": 18,
+        "max_power": 76,
+        "max_friend": 45,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "17": {
+        "id": 17,
+        "exp": 200,
+        "hero_lv_limit": 17,
+        "power_reward": 18,
+        "max_power": 77,
+        "max_friend": 46,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "18": {
+        "id": 18,
+        "exp": 200,
+        "hero_lv_limit": 18,
+        "power_reward": 19,
+        "max_power": 78,
+        "max_friend": 47,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "19": {
+        "id": 19,
+        "exp": 200,
+        "hero_lv_limit": 19,
+        "power_reward": 19,
+        "max_power": 79,
+        "max_friend": 48,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "20": {
+        "id": 20,
+        "exp": 200,
+        "hero_lv_limit": 20,
+        "power_reward": 20,
+        "max_power": 80,
+        "max_friend": 49,
+        "max_vitality": 15,
+        "resurrection_cd": 0
+    },
+    "21": {
+        "id": 21,
+        "exp": 200,
+        "hero_lv_limit": 21,
+        "power_reward": 21,
+        "max_power": 81,
+        "max_friend": 50,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "22": {
+        "id": 22,
+        "exp": 200,
+        "hero_lv_limit": 22,
+        "power_reward": 22,
+        "max_power": 82,
+        "max_friend": 51,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "23": {
+        "id": 23,
+        "exp": 200,
+        "hero_lv_limit": 23,
+        "power_reward": 23,
+        "max_power": 83,
+        "max_friend": 52,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "24": {
+        "id": 24,
+        "exp": 200,
+        "hero_lv_limit": 24,
+        "power_reward": 24,
+        "max_power": 84,
+        "max_friend": 53,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "25": {
+        "id": 25,
+        "exp": 200,
+        "hero_lv_limit": 25,
+        "power_reward": 25,
+        "max_power": 85,
+        "max_friend": 54,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "26": {
+        "id": 26,
+        "exp": 200,
+        "hero_lv_limit": 26,
+        "power_reward": 26,
+        "max_power": 86,
+        "max_friend": 55,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "27": {
+        "id": 27,
+        "exp": 200,
+        "hero_lv_limit": 27,
+        "power_reward": 27,
+        "max_power": 87,
+        "max_friend": 56,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "28": {
+        "id": 28,
+        "exp": 350,
+        "hero_lv_limit": 28,
+        "power_reward": 28,
+        "max_power": 88,
+        "max_friend": 57,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "29": {
+        "id": 29,
+        "exp": 450,
+        "hero_lv_limit": 29,
+        "power_reward": 29,
+        "max_power": 89,
+        "max_friend": 58,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "30": {
+        "id": 30,
+        "exp": 500,
+        "hero_lv_limit": 30,
+        "power_reward": 30,
+        "max_power": 90,
+        "max_friend": 59,
+        "max_vitality": 20,
+        "resurrection_cd": 0
+    },
+    "31": {
+        "id": 31,
+        "exp": 600,
+        "hero_lv_limit": 31,
+        "power_reward": 31,
+        "max_power": 91,
+        "max_friend": 60,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "32": {
+        "id": 32,
+        "exp": 630,
+        "hero_lv_limit": 32,
+        "power_reward": 32,
+        "max_power": 92,
+        "max_friend": 61,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "33": {
+        "id": 33,
+        "exp": 650,
+        "hero_lv_limit": 33,
+        "power_reward": 33,
+        "max_power": 93,
+        "max_friend": 62,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "34": {
+        "id": 34,
+        "exp": 680,
+        "hero_lv_limit": 34,
+        "power_reward": 34,
+        "max_power": 94,
+        "max_friend": 63,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "35": {
+        "id": 35,
+        "exp": 900,
+        "hero_lv_limit": 35,
+        "power_reward": 35,
+        "max_power": 95,
+        "max_friend": 64,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "36": {
+        "id": 36,
+        "exp": 1100,
+        "hero_lv_limit": 36,
+        "power_reward": 36,
+        "max_power": 96,
+        "max_friend": 65,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "37": {
+        "id": 37,
+        "exp": 1200,
+        "hero_lv_limit": 37,
+        "power_reward": 37,
+        "max_power": 97,
+        "max_friend": 66,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "38": {
+        "id": 38,
+        "exp": 1300,
+        "hero_lv_limit": 38,
+        "power_reward": 38,
+        "max_power": 98,
+        "max_friend": 67,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "39": {
+        "id": 39,
+        "exp": 1500,
+        "hero_lv_limit": 39,
+        "power_reward": 39,
+        "max_power": 99,
+        "max_friend": 68,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "40": {
+        "id": 40,
+        "exp": 1600,
+        "hero_lv_limit": 40,
+        "power_reward": 40,
+        "max_power": 100,
+        "max_friend": 69,
+        "max_vitality": 25,
+        "resurrection_cd": 10
+    },
+    "41": {
+        "id": 41,
+        "exp": 1700,
+        "hero_lv_limit": 41,
+        "power_reward": 41,
+        "max_power": 101,
+        "max_friend": 70,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "42": {
+        "id": 42,
+        "exp": 1800,
+        "hero_lv_limit": 42,
+        "power_reward": 42,
+        "max_power": 102,
+        "max_friend": 71,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "43": {
+        "id": 43,
+        "exp": 1900,
+        "hero_lv_limit": 43,
+        "power_reward": 43,
+        "max_power": 103,
+        "max_friend": 72,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "44": {
+        "id": 44,
+        "exp": 2000,
+        "hero_lv_limit": 44,
+        "power_reward": 44,
+        "max_power": 104,
+        "max_friend": 73,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "45": {
+        "id": 45,
+        "exp": 2100,
+        "hero_lv_limit": 45,
+        "power_reward": 45,
+        "max_power": 105,
+        "max_friend": 74,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "46": {
+        "id": 46,
+        "exp": 2200,
+        "hero_lv_limit": 46,
+        "power_reward": 46,
+        "max_power": 106,
+        "max_friend": 75,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "47": {
+        "id": 47,
+        "exp": 2400,
+        "hero_lv_limit": 47,
+        "power_reward": 47,
+        "max_power": 107,
+        "max_friend": 76,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "48": {
+        "id": 48,
+        "exp": 2600,
+        "hero_lv_limit": 48,
+        "power_reward": 48,
+        "max_power": 108,
+        "max_friend": 77,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "49": {
+        "id": 49,
+        "exp": 2700,
+        "hero_lv_limit": 49,
+        "power_reward": 49,
+        "max_power": 109,
+        "max_friend": 78,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "50": {
+        "id": 50,
+        "exp": 2800,
+        "hero_lv_limit": 50,
+        "power_reward": 50,
+        "max_power": 110,
+        "max_friend": 79,
+        "max_vitality": 30,
+        "resurrection_cd": 10
+    },
+    "51": {
+        "id": 51,
+        "exp": 2800,
+        "hero_lv_limit": 51,
+        "power_reward": 51,
+        "max_power": 111,
+        "max_friend": 80,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "52": {
+        "id": 52,
+        "exp": 2900,
+        "hero_lv_limit": 52,
+        "power_reward": 52,
+        "max_power": 112,
+        "max_friend": 81,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "53": {
+        "id": 53,
+        "exp": 3000,
+        "hero_lv_limit": 53,
+        "power_reward": 53,
+        "max_power": 113,
+        "max_friend": 82,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "54": {
+        "id": 54,
+        "exp": 3200,
+        "hero_lv_limit": 54,
+        "power_reward": 54,
+        "max_power": 114,
+        "max_friend": 83,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "55": {
+        "id": 55,
+        "exp": 3500,
+        "hero_lv_limit": 55,
+        "power_reward": 55,
+        "max_power": 115,
+        "max_friend": 84,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "56": {
+        "id": 56,
+        "exp": 3800,
+        "hero_lv_limit": 56,
+        "power_reward": 56,
+        "max_power": 116,
+        "max_friend": 85,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "57": {
+        "id": 57,
+        "exp": 3900,
+        "hero_lv_limit": 57,
+        "power_reward": 57,
+        "max_power": 117,
+        "max_friend": 86,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "58": {
+        "id": 58,
+        "exp": 3900,
+        "hero_lv_limit": 58,
+        "power_reward": 58,
+        "max_power": 118,
+        "max_friend": 87,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "59": {
+        "id": 59,
+        "exp": 4000,
+        "hero_lv_limit": 59,
+        "power_reward": 59,
+        "max_power": 119,
+        "max_friend": 88,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "60": {
+        "id": 60,
+        "exp": 4100,
+        "hero_lv_limit": 60,
+        "power_reward": 60,
+        "max_power": 120,
+        "max_friend": 89,
+        "max_vitality": 35,
+        "resurrection_cd": 10
+    },
+    "61": {
+        "id": 61,
+        "exp": 4200,
+        "hero_lv_limit": 61,
+        "power_reward": 61,
+        "max_power": 121,
+        "max_friend": 90,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "62": {
+        "id": 62,
+        "exp": 4500,
+        "hero_lv_limit": 62,
+        "power_reward": 62,
+        "max_power": 122,
+        "max_friend": 91,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "63": {
+        "id": 63,
+        "exp": 4800,
+        "hero_lv_limit": 63,
+        "power_reward": 63,
+        "max_power": 123,
+        "max_friend": 92,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "64": {
+        "id": 64,
+        "exp": 4900,
+        "hero_lv_limit": 64,
+        "power_reward": 64,
+        "max_power": 124,
+        "max_friend": 93,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "65": {
+        "id": 65,
+        "exp": 5000,
+        "hero_lv_limit": 65,
+        "power_reward": 65,
+        "max_power": 125,
+        "max_friend": 94,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "66": {
+        "id": 66,
+        "exp": 5000,
+        "hero_lv_limit": 66,
+        "power_reward": 66,
+        "max_power": 126,
+        "max_friend": 95,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "67": {
+        "id": 67,
+        "exp": 5200,
+        "hero_lv_limit": 67,
+        "power_reward": 67,
+        "max_power": 127,
+        "max_friend": 96,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "68": {
+        "id": 68,
+        "exp": 5200,
+        "hero_lv_limit": 68,
+        "power_reward": 68,
+        "max_power": 128,
+        "max_friend": 97,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "69": {
+        "id": 69,
+        "exp": 5300,
+        "hero_lv_limit": 69,
+        "power_reward": 69,
+        "max_power": 129,
+        "max_friend": 98,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "70": {
+        "id": 70,
+        "exp": 5500,
+        "hero_lv_limit": 70,
+        "power_reward": 70,
+        "max_power": 130,
+        "max_friend": 99,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "71": {
+        "id": 71,
+        "exp": 5600,
+        "hero_lv_limit": 71,
+        "power_reward": 71,
+        "max_power": 131,
+        "max_friend": 100,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "72": {
+        "id": 72,
+        "exp": 5700,
+        "hero_lv_limit": 72,
+        "power_reward": 72,
+        "max_power": 132,
+        "max_friend": 101,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "73": {
+        "id": 73,
+        "exp": 5800,
+        "hero_lv_limit": 73,
+        "power_reward": 73,
+        "max_power": 133,
+        "max_friend": 102,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "74": {
+        "id": 74,
+        "exp": 5800,
+        "hero_lv_limit": 74,
+        "power_reward": 74,
+        "max_power": 134,
+        "max_friend": 103,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "75": {
+        "id": 75,
+        "exp": 5800,
+        "hero_lv_limit": 75,
+        "power_reward": 75,
+        "max_power": 135,
+        "max_friend": 104,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "76": {
+        "id": 76,
+        "exp": 5800,
+        "hero_lv_limit": 76,
+        "power_reward": 76,
+        "max_power": 136,
+        "max_friend": 105,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "77": {
+        "id": 77,
+        "exp": 5900,
+        "hero_lv_limit": 77,
+        "power_reward": 77,
+        "max_power": 137,
+        "max_friend": 106,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "78": {
+        "id": 78,
+        "exp": 6000,
+        "hero_lv_limit": 78,
+        "power_reward": 78,
+        "max_power": 138,
+        "max_friend": 107,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "79": {
+        "id": 79,
+        "exp": 6200,
+        "hero_lv_limit": 79,
+        "power_reward": 79,
+        "max_power": 139,
+        "max_friend": 108,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    },
+    "80": {
+        "id": 80,
+        "exp": 6400,
+        "hero_lv_limit": 80,
+        "power_reward": 80,
+        "max_power": 140,
+        "max_friend": 109,
+        "max_vitality": 40,
+        "resurrection_cd": 10
+    }
+}

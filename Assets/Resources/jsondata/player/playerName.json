@@ -1,0 +1,902 @@
+{
+    "1": {
+        "id": 1,
+        "name": "清新的",
+        "sign": null,
+        "surname": "俊杰"
+    },
+    "2": {
+        "id": 2,
+        "name": "忧郁的",
+        "sign": null,
+        "surname": "奥斯顿"
+    },
+    "3": {
+        "id": 3,
+        "name": "纯洁的",
+        "sign": null,
+        "surname": "克莱儿"
+    },
+    "4": {
+        "id": 4,
+        "name": "正常的",
+        "sign": null,
+        "surname": "埃里克"
+    },
+    "5": {
+        "id": 5,
+        "name": "疯狂的",
+        "sign": null,
+        "surname": "爱迪生"
+    },
+    "6": {
+        "id": 6,
+        "name": "喜悦的",
+        "sign": null,
+        "surname": "艾萨克"
+    },
+    "7": {
+        "id": 7,
+        "name": "臭美的",
+        "sign": null,
+        "surname": "爱罗伊"
+    },
+    "8": {
+        "id": 8,
+        "name": "欢乐的",
+        "sign": null,
+        "surname": "奥斯卡"
+    },
+    "9": {
+        "id": 9,
+        "name": "逗比的",
+        "sign": null,
+        "surname": "巴泽尔"
+    },
+    "10": {
+        "id": 10,
+        "name": "邪恶的",
+        "sign": null,
+        "surname": "布拉德"
+    },
+    "11": {
+        "id": 11,
+        "name": "蠢萌的",
+        "sign": null,
+        "surname": "布莱兹"
+    },
+    "12": {
+        "id": 12,
+        "name": "忧伤的",
+        "sign": null,
+        "surname": "布兰登"
+    },
+    "13": {
+        "id": 13,
+        "name": "寂寞的",
+        "sign": null,
+        "surname": "布鲁斯"
+    },
+    "14": {
+        "id": 14,
+        "name": "孤独的",
+        "sign": null,
+        "surname": "达尔文"
+    },
+    "15": {
+        "id": 15,
+        "name": "高冷的",
+        "sign": null,
+        "surname": "达尔西"
+    },
+    "16": {
+        "id": 16,
+        "name": "伪善的",
+        "sign": null,
+        "surname": "菲利普"
+    },
+    "17": {
+        "id": 17,
+        "name": "成熟的",
+        "sign": null,
+        "surname": "弗瑞德"
+    },
+    "18": {
+        "id": 18,
+        "name": "纠结的",
+        "sign": null,
+        "surname": "葛瑞丝"
+    },
+    "19": {
+        "id": 19,
+        "name": "懒惰的",
+        "sign": null,
+        "surname": "吉榭尔"
+    },
+    "20": {
+        "id": 20,
+        "name": "贪婪的",
+        "sign": null,
+        "surname": "加百利"
+    },
+    "21": {
+        "id": 21,
+        "name": "恶毒的",
+        "sign": null,
+        "surname": "贾斯特"
+    },
+    "22": {
+        "id": 22,
+        "name": "奇葩的",
+        "sign": null,
+        "surname": "贾斯汀"
+    },
+    "23": {
+        "id": 23,
+        "name": "伟大的",
+        "sign": null,
+        "surname": "杰罗姆"
+    },
+    "24": {
+        "id": 24,
+        "name": "正义的",
+        "sign": null,
+        "surname": "杰瑞德"
+    },
+    "25": {
+        "id": 25,
+        "name": "光明的",
+        "sign": null,
+        "surname": "克莱曼"
+    },
+    "26": {
+        "id": 26,
+        "name": "黑暗的",
+        "sign": null,
+        "surname": "肯尼迪"
+    },
+    "27": {
+        "id": 27,
+        "name": "嚣张的",
+        "sign": null,
+        "surname": "理查德"
+    },
+    "28": {
+        "id": 28,
+        "name": "不杀的",
+        "sign": null,
+        "surname": "鲁宾逊"
+    },
+    "29": {
+        "id": 29,
+        "name": "失落的",
+        "sign": null,
+        "surname": "马科斯"
+    },
+    "30": {
+        "id": 30,
+        "name": "满意的",
+        "sign": null,
+        "surname": "乔纳森"
+    },
+    "31": {
+        "id": 31,
+        "name": "幸福的",
+        "sign": null,
+        "surname": "斯帕克"
+    },
+    "32": {
+        "id": 32,
+        "name": "饥渴的",
+        "sign": null,
+        "surname": "所罗门"
+    },
+    "33": {
+        "id": 33,
+        "name": "怨念的",
+        "sign": null,
+        "surname": "希尔顿"
+    },
+    "34": {
+        "id": 34,
+        "name": "不死的",
+        "sign": null,
+        "surname": "阿道夫"
+    },
+    "35": {
+        "id": 35,
+        "name": "老土的",
+        "sign": null,
+        "surname": "艾布特"
+    },
+    "36": {
+        "id": 36,
+        "name": "青涩的",
+        "sign": null,
+        "surname": "艾尔玛"
+    },
+    "37": {
+        "id": 37,
+        "name": "娇艳的",
+        "sign": null,
+        "surname": "本杰明"
+    },
+    "38": {
+        "id": 38,
+        "name": "性感的",
+        "sign": null,
+        "surname": "毕维斯"
+    },
+    "39": {
+        "id": 39,
+        "name": "美丽的",
+        "sign": null,
+        "surname": "布鲁诺"
+    },
+    "40": {
+        "id": 40,
+        "name": "可爱的",
+        "sign": null,
+        "surname": "布尼尔"
+    },
+    "41": {
+        "id": 41,
+        "name": "肥肥的",
+        "sign": null,
+        "surname": "莉莉斯"
+    },
+    "42": {
+        "id": 42,
+        "name": "白白的",
+        "sign": null,
+        "surname": "路易斯"
+    },
+    "43": {
+        "id": 43,
+        "name": "瘦瘦的",
+        "sign": null,
+        "surname": "亚岱尔"
+    },
+    "44": {
+        "id": 44,
+        "name": "多采的",
+        "sign": null,
+        "surname": "亚尔林"
+    },
+    "45": {
+        "id": 45,
+        "name": "活跃的",
+        "sign": null,
+        "surname": "杰拉尔"
+    },
+    "46": {
+        "id": 46,
+        "name": "冷酷的",
+        "sign": null,
+        "surname": "卡斯帕"
+    },
+    "47": {
+        "id": 47,
+        "name": "傲慢的",
+        "sign": null,
+        "surname": "丹尼斯"
+    },
+    "48": {
+        "id": 48,
+        "name": "好色的",
+        "sign": null,
+        "surname": "胖墩"
+    },
+    "49": {
+        "id": 49,
+        "name": "勾魂的",
+        "sign": null,
+        "surname": "壮汉"
+    },
+    "50": {
+        "id": 50,
+        "name": "丰满的",
+        "sign": null,
+        "surname": "靓女"
+    },
+    "51": {
+        "id": 51,
+        "name": "狼性的",
+        "sign": null,
+        "surname": "美眉"
+    },
+    "52": {
+        "id": 52,
+        "name": "神秘的",
+        "sign": null,
+        "surname": "表哥"
+    },
+    "53": {
+        "id": 53,
+        "name": "衰弱的",
+        "sign": null,
+        "surname": "表弟"
+    },
+    "54": {
+        "id": 54,
+        "name": "精神的",
+        "sign": null,
+        "surname": "表姐"
+    },
+    "55": {
+        "id": 55,
+        "name": "神经的",
+        "sign": null,
+        "surname": "表妹"
+    },
+    "56": {
+        "id": 56,
+        "name": "强壮的",
+        "sign": null,
+        "surname": "大叔"
+    },
+    "57": {
+        "id": 57,
+        "name": "谨慎的",
+        "sign": null,
+        "surname": "大婶"
+    },
+    "58": {
+        "id": 58,
+        "name": "好奇的",
+        "sign": null,
+        "surname": "嫩娃"
+    },
+    "59": {
+        "id": 59,
+        "name": "绝情的",
+        "sign": null,
+        "surname": "瓜娃"
+    },
+    "60": {
+        "id": 60,
+        "name": "风骚的",
+        "sign": null,
+        "surname": "正太"
+    },
+    "61": {
+        "id": 61,
+        "name": "白羊座的",
+        "sign": null,
+        "surname": "萝莉"
+    },
+    "62": {
+        "id": 62,
+        "name": "金牛座的",
+        "sign": null,
+        "surname": "御姐"
+    },
+    "63": {
+        "id": 63,
+        "name": "双子座的",
+        "sign": null,
+        "surname": "人妖"
+    },
+    "64": {
+        "id": 64,
+        "name": "巨蟹座的",
+        "sign": null,
+        "surname": "乳神"
+    },
+    "65": {
+        "id": 65,
+        "name": "狮子座的",
+        "sign": null,
+        "surname": "网红"
+    },
+    "66": {
+        "id": 66,
+        "name": "处女座的",
+        "sign": null,
+        "surname": "衰仔"
+    },
+    "67": {
+        "id": 67,
+        "name": "天秤座的",
+        "sign": null,
+        "surname": "男神"
+    },
+    "68": {
+        "id": 68,
+        "name": "天蝎座的",
+        "sign": null,
+        "surname": "女神"
+    },
+    "69": {
+        "id": 69,
+        "name": "射手座的",
+        "sign": null,
+        "surname": "杀手"
+    },
+    "70": {
+        "id": 70,
+        "name": "摩羯座的",
+        "sign": null,
+        "surname": "愚者"
+    },
+    "71": {
+        "id": 71,
+        "name": "宝瓶座的",
+        "sign": null,
+        "surname": "魔术师"
+    },
+    "72": {
+        "id": 72,
+        "name": "双鱼座的",
+        "sign": null,
+        "surname": "女祭司"
+    },
+    "73": {
+        "id": 73,
+        "name": "蛇夫座的",
+        "sign": null,
+        "surname": "女皇"
+    },
+    "74": {
+        "id": 74,
+        "name": "华丽的",
+        "sign": null,
+        "surname": "皇帝"
+    },
+    "75": {
+        "id": 75,
+        "name": "打酱油的",
+        "sign": null,
+        "surname": "教皇"
+    },
+    "76": {
+        "id": 76,
+        "name": "鬼畜的",
+        "sign": null,
+        "surname": "恋人"
+    },
+    "77": {
+        "id": 77,
+        "name": "猥琐的",
+        "sign": null,
+        "surname": "战车"
+    },
+    "78": {
+        "id": 78,
+        "name": "英明的",
+        "sign": null,
+        "surname": "隐者"
+    },
+    "79": {
+        "id": 79,
+        "name": "果敢的",
+        "sign": null,
+        "surname": "倒吊人"
+    },
+    "80": {
+        "id": 80,
+        "name": "专一的",
+        "sign": null,
+        "surname": "奶茶"
+    },
+    "81": {
+        "id": 81,
+        "name": "长情的",
+        "sign": null,
+        "surname": "直男癌"
+    },
+    "82": {
+        "id": 82,
+        "name": "温柔的",
+        "sign": null,
+        "surname": "直女癌"
+    },
+    "83": {
+        "id": 83,
+        "name": "木讷的",
+        "sign": null,
+        "surname": "伪娘"
+    },
+    "84": {
+        "id": 84,
+        "name": "永生的",
+        "sign": null,
+        "surname": "女汉纸"
+    },
+    "85": {
+        "id": 85,
+        "name": "死亡的",
+        "sign": null,
+        "surname": "清凉油"
+    },
+    "86": {
+        "id": 86,
+        "name": "流浪的",
+        "sign": null,
+        "surname": "麻辣烫"
+    },
+    "87": {
+        "id": 87,
+        "name": "冷艳的",
+        "sign": null,
+        "surname": "耳挖勺"
+    },
+    "88": {
+        "id": 88,
+        "name": "慌张的",
+        "sign": null,
+        "surname": "痒痒挠"
+    },
+    "89": {
+        "id": 89,
+        "name": "沉默的",
+        "sign": null,
+        "surname": "指甲刀"
+    },
+    "90": {
+        "id": 90,
+        "name": "紧张的",
+        "sign": null,
+        "surname": "喵星人"
+    },
+    "91": {
+        "id": 91,
+        "name": "残念的",
+        "sign": null,
+        "surname": "汪星人"
+    },
+    "92": {
+        "id": 92,
+        "name": "不明的",
+        "sign": null,
+        "surname": "吱星人"
+    },
+    "93": {
+        "id": 93,
+        "name": "技术宅的",
+        "sign": null,
+        "surname": "咩星人"
+    },
+    "94": {
+        "id": 94,
+        "name": "疯癫的",
+        "sign": null,
+        "surname": "人造人"
+    },
+    "95": {
+        "id": 95,
+        "name": "蓝瘦的",
+        "sign": null,
+        "surname": "大咖"
+    },
+    "96": {
+        "id": 96,
+        "name": "香菇的",
+        "sign": null,
+        "surname": "黑手"
+    },
+    "97": {
+        "id": 97,
+        "name": "正能量的",
+        "sign": null,
+        "surname": "大宝剑"
+    },
+    "98": {
+        "id": 98,
+        "name": "负能量的",
+        "sign": null,
+        "surname": "娜娜"
+    },
+    "99": {
+        "id": 99,
+        "name": "混沌的",
+        "sign": null,
+        "surname": "露西"
+    },
+    "100": {
+        "id": 100,
+        "name": "永恒的",
+        "sign": null,
+        "surname": "兽人"
+    },
+    "101": {
+        "id": 101,
+        "name": "传说中的",
+        "sign": null,
+        "surname": "亡灵"
+    },
+    "102": {
+        "id": 102,
+        "name": "嗜血的",
+        "sign": null,
+        "surname": "夜精灵"
+    },
+    "103": {
+        "id": 103,
+        "name": "素食的",
+        "sign": null,
+        "surname": "人类"
+    },
+    "104": {
+        "id": 104,
+        "name": "不败的",
+        "sign": null,
+        "surname": "星灵"
+    },
+    "105": {
+        "id": 105,
+        "name": "不朽的",
+        "sign": null,
+        "surname": "异虫"
+    },
+    "106": {
+        "id": 106,
+        "name": "气极的",
+        "sign": null,
+        "surname": "娜迦"
+    },
+    "107": {
+        "id": 107,
+        "name": "睡不醒的",
+        "sign": null,
+        "surname": "牛头人"
+    },
+    "108": {
+        "id": 108,
+        "name": "甜蜜的",
+        "sign": null,
+        "surname": "巨魔"
+    },
+    "109": {
+        "id": 109,
+        "name": "苦涩的",
+        "sign": null,
+        "surname": "半神"
+    },
+    "110": {
+        "id": 110,
+        "name": "逆鳞的",
+        "sign": null,
+        "surname": "血精灵"
+    },
+    "111": {
+        "id": 111,
+        "name": "长寿的",
+        "sign": null,
+        "surname": "狼人"
+    },
+    "112": {
+        "id": 112,
+        "name": "白衣的",
+        "sign": null,
+        "surname": "吸血鬼"
+    },
+    "113": {
+        "id": 113,
+        "name": "黑衣的",
+        "sign": null,
+        "surname": "矮人"
+    },
+    "114": {
+        "id": 114,
+        "name": "孤单的",
+        "sign": null,
+        "surname": "傀儡"
+    },
+    "115": {
+        "id": 115,
+        "name": "高贵的",
+        "sign": null,
+        "surname": "龙族"
+    },
+    "116": {
+        "id": 116,
+        "name": "紧致的",
+        "sign": null,
+        "surname": "痞子"
+    },
+    "117": {
+        "id": 117,
+        "name": "浪漫的",
+        "sign": null,
+        "surname": "厨子"
+    },
+    "118": {
+        "id": 118,
+        "name": "滥情的",
+        "sign": null,
+        "surname": "戏子"
+    },
+    "119": {
+        "id": 119,
+        "name": "土豪的",
+        "sign": null,
+        "surname": "英雄"
+    },
+    "120": {
+        "id": 120,
+        "name": "吊丝的",
+        "sign": null,
+        "surname": "十字军"
+    },
+    "121": {
+        "id": 121,
+        "name": "中二的",
+        "sign": null,
+        "surname": "武士"
+    },
+    "122": {
+        "id": 122,
+        "name": "皇室的",
+        "sign": null,
+        "surname": "守望者"
+    },
+    "123": {
+        "id": 123,
+        "name": "联盟的",
+        "sign": null,
+        "surname": "宝宝"
+    },
+    "124": {
+        "id": 124,
+        "name": "部落的",
+        "sign": null,
+        "surname": "亲亲"
+    },
+    "125": {
+        "id": 125,
+        "name": "燃烧的",
+        "sign": null,
+        "surname": "运动员"
+    },
+    "126": {
+        "id": 126,
+        "name": "带刺的",
+        "sign": null,
+        "surname": "健将"
+    },
+    "127": {
+        "id": 127,
+        "name": "毒舌的",
+        "sign": null,
+        "surname": "骁将"
+    },
+    "128": {
+        "id": 128,
+        "name": "绝爱的",
+        "sign": null,
+        "surname": "浪客"
+    },
+    "129": {
+        "id": 129,
+        "name": "忘吃药的",
+        "sign": null,
+        "surname": "陌生人"
+    },
+    "130": {
+        "id": 130,
+        "name": "摇滚的",
+        "sign": null,
+        "surname": "王子"
+    },
+    "131": {
+        "id": 131,
+        "name": "古典的",
+        "sign": null,
+        "surname": "公主"
+    },
+    "132": {
+        "id": 132,
+        "name": "呻吟的",
+        "sign": null,
+        "surname": "变节者"
+    },
+    "133": {
+        "id": 133,
+        "name": "缠绵的",
+        "sign": null,
+        "surname": "低语者"
+    },
+    "134": {
+        "id": 134,
+        "name": "激斗的",
+        "sign": null,
+        "surname": "倾诉者"
+    },
+    "135": {
+        "id": 135,
+        "name": "进击的",
+        "sign": null,
+        "surname": "倾听者"
+    },
+    "136": {
+        "id": 136,
+        "name": "半衰的",
+        "sign": null,
+        "surname": "舞者"
+    },
+    "137": {
+        "id": 137,
+        "name": "丰满的",
+        "sign": null,
+        "surname": "忍者"
+    },
+    "138": {
+        "id": 138,
+        "name": "苗条的",
+        "sign": null,
+        "surname": "吟唱者"
+    },
+    "139": {
+        "id": 139,
+        "name": "虔诚的",
+        "sign": null,
+        "surname": "行者"
+    },
+    "140": {
+        "id": 140,
+        "name": "耀眼的",
+        "sign": null,
+        "surname": "学者"
+    },
+    "141": {
+        "id": 141,
+        "name": "封闭的",
+        "sign": null,
+        "surname": "贤者"
+    },
+    "142": {
+        "id": 142,
+        "name": "开放的",
+        "sign": null,
+        "surname": "红颜"
+    },
+    "143": {
+        "id": 143,
+        "name": "生锈的",
+        "sign": null,
+        "surname": "蓝颜"
+    },
+    "144": {
+        "id": 144,
+        "name": "哥特的",
+        "sign": null,
+        "surname": "沉睡者"
+    },
+    "145": {
+        "id": 145,
+        "name": "逐日的",
+        "sign": null,
+        "surname": "装睡者"
+    },
+    "146": {
+        "id": 146,
+        "name": "火元素的",
+        "sign": null,
+        "surname": "侍卫"
+    },
+    "147": {
+        "id": 147,
+        "name": "土元素的",
+        "sign": null,
+        "surname": "帅哥"
+    },
+    "148": {
+        "id": 148,
+        "name": "风元素的",
+        "sign": null,
+        "surname": "靓妹"
+    },
+    "149": {
+        "id": 149,
+        "name": "水元素的",
+        "sign": null,
+        "surname": "萌弟"
+    },
+    "150": {
+        "id": 150,
+        "name": "雷元素的",
+        "sign": null,
+        "surname": "俏姐"
+    }
+}
